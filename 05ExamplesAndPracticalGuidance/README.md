@@ -53,7 +53,7 @@ Verschiedene Universitäten in ganz Europa organisieren einwöchige Summer Schoo
 
 * [EPFL Summer school Open Science in der Praxis](http://archiveweb.epfl.ch/osip2017.epfl.ch/page-146300-fr.html)(2017, Programmübersicht)
 
-* [Utrecht University Summer school Open Science und Stipendien](https://tinyurl.com/sumsopenscience2017) (2017, Programm und Materialien)
+* [Utrecht University Summer school Open Science](https://tinyurl.com/sumsopenscience2017) (2017, Programm und Materialien)
 
 * [Essex Summer school in Sozialwissenschaften und Datenanlyse - Eine Einführung zu Open Science](https://www.fosteropenscience.eu/event/essex-summer-school-social-science-data-analysis-introduction-open-science) (2017, Programmübersicht)
 
@@ -62,7 +62,7 @@ Verschiedene Universitäten in ganz Europa organisieren einwöchige Summer Schoo
 
 ![image alt text](/Images/image_6.png)
 
-*Programmübersicht Summer School Open Science und Stipendien, Universität Utrecht 2017*
+*Programmübersicht Summer School Open Science, Universität Utrecht 2017*
 
 ### Übungsbeispiele
 
@@ -70,82 +70,83 @@ Verschiedene Universitäten in ganz Europa organisieren einwöchige Summer Schoo
 
 * Format, Zeitbedarf 
 
-* Topic \([see Open Science Basics](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/README.md)\)
+* Thema \([siehe Open Science Basics](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/README.md)\)
 
-* Learning objectives 
+* Lernziele 
 
-* Exercise description
+* Beschreibung der Übung, Anleitung
 
-* Materials and tools needed
+* Benötigte Materialien und Hilfsmittel
 
-* Level of prior knowledge needed
+* Benötigte Vorkenntnisse
 
-* Things to bear in mind
+* Wichtige Punkte
 
-* How to adapt for other purposes
+* Wie man die Übung für andere Zwecke anpassen kann
 
-**Use [this Google form](https://goo.gl/forms/wxyx6pk80mHUHTRu1) to suggest additional exercises!**
+**Benutze [dieses Google Formular](https://goo.gl/forms/wxyx6pk80mHUHTRu1) um weitere Übungen vorzuschlagen!**
 
-#### Types of exercises
+#### Arten von Übungen
 
 
-    * quick warm-up / short break exercises 
+    * schnelle Aufwärmübung / Übungen für kurze Pasuen 
 
-    * small group exercises
+    * Übungen für kleine Gruppen
 
-        * role-play
+        * Rollenspiele
 
-        * discuss OS topics/statements
+        * Diskussionen von OS Themen/Statements
 
-        * marketplace: exchange experiences/expertise
+        * Erfahrungs- und Kompetenzaustausch
 
-        * meeting with researchers / policy makers
-
-        * ...
-
-    * plenary exercises
-
-        * collaborative mapping
-
-        * simulation game 
-
-        * inventorizing
-
-        * card games
-
-    * presentations
-
-        * role-play
-
-        * present real-life cases/examples (also by participants)
-
-        * one-minute presentations of a concept (by participants) 
-
-        * guest lecturers
+        * Treffen mit Forschenden / politischen ENtscheidungsträgern
 
         * ...
 
-    * hands-on exercises (individual or in pairs)
+    * Übungen für große Gruppen oder im Plenum
 
-        * visualizing
+        * gemeinschaftliches Mapping
 
-        * explore / try out tools & platforms
+        * Simulationsspiele
 
-        * implement an open science practice in your own research
+        * Gruppenumfragen
 
-        * check reproducibility of a research paper
+        * Kartenspiele
+
+    * Präsentationen
+
+        * Rollenspiele
+
+        * Präsentationen von realen Fällen/Beispielen (auch von den Teilnehmenden)
+
+        * einminütige Präsentationen von Konzepten (von den Teilnehmenden) 
+
+        * Gastdozenten
+
+        * ...
+
+    * Praktische Übungen (einzeln oder zu zweit)
+
+        * Visualisieren
+
+        * Erkunden/Ausprobieren von Tools, Plattformen, Werkzeugen
+
+        * Einführen und Anwenden einer Open Science Methode in der eigenen Forschung
+
+        * Überprüfen der Reproduzierbarkeit einer wissenschaftlichen Studie
 
         * … 
 
-#### Example exercises (including materials)
+
+#### Trainings- und Übungsbeispiele (inclusive Materialien)
 
 <table>
   <tr>
     <td></td>
-    <td>Title</td>
-    <td>Topic</td>
-    <td>Type</td>
-    <td>Duration</td>
+    <td>Titel</td>
+    <td>Thema</td>
+    <td>Art</td>
+    <td>Dauer</td>
   </tr>
   <tr>
     <td>1</td>
