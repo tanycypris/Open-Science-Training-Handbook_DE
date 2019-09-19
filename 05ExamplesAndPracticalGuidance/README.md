@@ -151,144 +151,144 @@ Verschiedene Universitäten in ganz Europa organisieren einwöchige Summer Schoo
   <tr>
     <td>1</td>
     <td>Line up!</td>
-    <td>general</td>
-    <td>whole group</td>
-    <td>5-10 min</td>
+    <td>Allgemein</td>
+    <td>Ganze Gruppe</td>
+    <td>5-10 Min</td>
   </tr>
   <tr>
     <td>2</td>
-    <td>Prioritization of training needs</td>
-    <td>Open Concepts and Principles</td>
-    <td>whole group</td>
-    <td>10 min</td>
+    <td>Priorisierung des Trainingbedarfs</td>
+    <td>Offene Konzepte und Grundsätze</td>
+    <td>Ganze Gruppe</td>
+    <td>10 Min</td>
   </tr>
   <tr>
     <td>3</td>
-    <td>Selection of Open Science practices</td>
-    <td>Open Concepts and Principles</td>
-    <td>whole group</td>
-    <td>1-1.5 hour</td>
+    <td>Auswahl von Open Science Methoden</td>
+    <td>Offene Konzepte und Grundsätze</td>
+    <td>Ganze Gruppe</td>
+    <td>1-1,5 Stunden</td>
   </tr>
   <tr>
     <td>4</td>
-    <td>Open Science discussion topics</td>
-    <td>Open Concepts and Principles</td>
-    <td>small groups</td>
-    <td>20-30 min</td>
+    <td>Open Science Diskussionsthemen</td>
+    <td>Offene Konzepte und Grundsätze</td>
+    <td>Gleine Gruppen</td>
+    <td>20-30 Min</td>
   </tr>
   <tr>
     <td>5</td>
-    <td>LIBER Open Science café</td>
-    <td>Open Concepts and Principles</td>
-    <td>small groups</td>
+    <td>LIBER Open Science Café</td>
+    <td>Offene Konzepte und Grundsätze</td>
+    <td>Kleine Gruppen</td>
     <td>1.5 hour</td>
   </tr>
   <tr>
     <td>6</td>
-    <td>What is research data for me?</td>
-    <td>Open Research Data and Materials</td>
-    <td>individual / pairs</td>
-    <td>15 min</td>
+    <td>Was verstehe ich unter Forschungsdaten?</td>
+    <td>Offene Forschungsdaten und Materialien</td>
+    <td>einzeln / in Paaren</td>
+    <td>15 Min</td>
   </tr>
   <tr>
     <td>7</td>
-    <td>Why not share data?</td>
-    <td>Open Research Data and Materials</td>
-    <td>small groups</td>
-    <td>20 min</td>
+    <td>Warum gibt man Daten nicht weiter?</td>
+    <td>Offene Forschungsdaten und Materialien</td>
+    <td>Kleine Gruppen</td>
+    <td>20 Min</td>
   </tr>
   <tr>
     <td>8</td>
-    <td>"Open Data Excuse" Bingo</td>
-    <td>Open Research Data and Materials</td>
-    <td>whole group</td>
-    <td>20-30 min</td>
+    <td>"Open Data Ausreden"-Bingo</td>
+    <td>Offene Forschungsdaten und Materialien</td>
+    <td>Ganze Gruppe</td>
+    <td>20-30 Min</td>
   </tr>
   <tr>
     <td>9</td>
-    <td>Me and my data - Datagramms</td>
-    <td>Open Research Data and Materials</td>
-    <td>whole group</td>
-    <td>1-4 hours</td>
+    <td>Ich und meine Daten - Datengramme</td>
+    <td>Offene Forschungsdaten und Materialien</td>
+    <td>Ganze Gruppe</td>
+    <td>1-4 Stunden</td>
   </tr>
   <tr>
     <td>10</td>
-    <td>Find your data publisher</td>
-    <td>Open Research Data and Materials</td>
-    <td>individual / pairs</td>
-    <td>10-15 min</td>
+    <td>Finde deine Datenplattform</td>
+    <td>Offene Forschungsdaten und Materialien</td>
+    <td>einzeln / in Paaren</td>
+    <td>10-15 Min</td>
   </tr>
   <tr>
     <td>11</td>
-    <td>What do you need for a data publication?</td>
-    <td>Open Research Data and Materials</td>
-    <td>whole group</td>
-    <td>10 min</td>
+    <td>Was braucht man für die Veröffentlichung von Daten?</td>
+    <td>Offene Forschungsdaten und Materialien</td>
+    <td>Ganze Gruppe</td>
+    <td>10 Min</td>
   </tr>
   <tr>
     <td>12</td>
-    <td>Creating metadata</td>
-    <td>Open Research Data and Materials</td>
-    <td>individual / pairs</td>
-    <td>5 min</td>
+    <td>Erstellen von Metadata</td>
+    <td>Offene Forschungsdaten und Materialien</td>
+    <td>einzeln / in Paaren</td>
+    <td>5 Min</td>
   </tr>
   <tr>
     <td>13</td>
-    <td>Get started with sharing software openly</td>
+    <td>Erste Schritte mit der offenen Freigabe von Software</td>
     <td>Open Research Software / Open Source</td>
-    <td>individual / pairs</td>
-    <td>20-30 min</td>
+    <td>einzeln / in Paaren</td>
+    <td>20-30 Min</td>
   </tr>
   <tr>
     <td>14</td>
-    <td>Establishing a Reproducible Data Analysis Workflow</td>
-    <td>Reproducible Research and Data Analysis</td>
-    <td>individual / pairs</td>
-    <td>4-8 hours</td>
+    <td>Einführung und Etablierung eines Workflows zur reproduzierbaren Datenanalyase</td>
+    <td>Reproduzierbare Forschung und Datenanalyse</td>
+    <td>einzeln / in Paaren</td>
+    <td>4-8 Stunden</td>
   </tr>
   <tr>
     <td>15</td>
-    <td>Choose the right version for the repository</td>
-    <td>Open Access to Published Research Results</td>
-    <td>individual / pairs</td>
-    <td>15-20 min</td>
+    <td>Welche Version der Publikation darf man archivieren</td>
+    <td>Von Open Access zur Veröffentlichung wissenschaftlicher Ergebnisse</td>
+    <td>einzeln / in Paaren</td>
+    <td>15-20 Min</td>
   </tr>
   <tr>
     <td>16</td>
-    <td>Open file formats</td>
-    <td>Open Licensing and File Formats</td>
-    <td>whole group</td>
-    <td>10-15 min</td>
+    <td>Offene Dateiformate</td>
+    <td>Offene Lizenzen und Dateiformate</td>
+    <td>Ganze Gruppe</td>
+    <td>10-15 Min</td>
   </tr>
   <tr>
     <td>17</td>
-    <td>Creative Commons License matching</td>
-    <td>Open Licensing and File Formats</td>
-    <td>whole group</td>
-    <td>5-10 min</td>
+    <td>Creative Commons Lizenzabgleich</td>
+    <td>Offene Lizenzen und Dateiformate</td>
+    <td>Ganze Gruppe</td>
+    <td>5-10 Min</td>
   </tr>
   <tr>
     <td>18</td>
     <td>OER Remix</td>
-    <td>Open Licensing and File Formats
+    <td>Offene Lizenzen und Dateiformate
 
 Open Educational Resources</td>
-    <td>whole group</td>
-    <td>10-15 min</td>
+    <td>Ganze Gruppe</td>
+    <td>10-15 Min</td>
   </tr>
   <tr>
     <td>19</td>
-    <td>Open peer review - participants openly review each others’ texts</td>
-    <td>Open Peer Review, Metrics, and Evaluation</td>
-    <td>small groups</td>
-    <td>90 min</td>
+    <td>Open Peer Review – die Teilnehmenden reviewen offen die Texte des anderen</td>
+    <td>Open Peer Review, Metriken, und Evaluierung</td>
+    <td>Kleine Gruppen</td>
+    <td>90 Min</td>
   </tr>
   <tr>
     <td>20</td>
-    <td>Open peer review - your 2 cents</td>
-    <td>Open Peer Review, Metrics, and Evaluation</td>
-    <td>whole group</td>
-    <td>1.5 hour</td>
+    <td>Open peer review - deine 2 Cent</td>
+    <td>Open Peer Review, Metriken, und Evaluierung</td>
+    <td>Ganze Gruppe</td>
+    <td>1,5 Stunden</td>
   </tr>
   <tr>
     <td>21</td>
@@ -317,7 +317,7 @@ Collaborative Platforms</td>
     <td>24</td>
     <td>Set up OSF project & link to other platforms (in progress)</td>
     <td>Open Research Data and Materials</td>
-    <td>individually or in pairs</td>
+    <td>einzeln / in Paaren</td>
     <td></td>
   </tr>
   <tr>
