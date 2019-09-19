@@ -13,59 +13,62 @@ Das Open Science Göttingen Meet-up bringt regelmäßig das Open Science Netzwer
 
 * Mehr Inforamtionen: [Niedersächsische Staats- und Universitätsbibliothek Göttingen - Open Science](https://www.sub.uni-goettingen.de/elektronisches-publizieren/open-science/)
 
-**Mozilla Study groups (a series of 2–3 hour meetings)**
+**Mozilla Study Gruppen (Veranstaltungsreihe mit 2–3-stündigen Treffen)**
 
-Study groups are communities of peers (e.g., from the same institution) committed to learning and teaching each other. They’re fun, informal meetups allowing participants to share skills, experiences, and ideas around open science, open source, code, and community in research. The goal of the [Mozilla Study Group Project](https://science.mozilla.org/programs/studygroups) is to support this kind of peer-to-peer study by providing a simple set of tools, template lesson plans, and access to an international community of like-minded researchers and avid learners in code
-(text adapted from [science.mozilla.org/programs/studygroups](https://science.mozilla.org/programs/studygroups))
+Mozilla Arbeitsgruppen sind GRuppen von Kollegen (z.B. aus derselben Institution), die sich gegenseitig etwas lehren und voneinander lernen. Es sind zwanglose, informelle Meetups, bei denen die Teilnehmer ihre Fähigkeiten, Erfahrungen und Ideen rund um Open Science, Open Source, Open Code und über die Forschungscommunity austauschen können. Das Ziel des [Mozilla Study Group Project](https://science.mozilla.org/programs/studygroups) ist es, diese Art von Peer-to-Peer-Unterricht mit einer Sammlung von praktischen Tools, Vorlagen für Unterrichtspläne und Zugang zu einer internationalen Community von Gleichgesinnten und Programmierbegeisterten zu unterstützen (Text angepasst von [science.mozilla.org/programs/studygroups](https://science.mozilla.org/programs/studygroups)).
 
-**Reproducible analysis and Research Transparency (a single full-day workshop)**
 
-Transparency, open sharing, and reproducibility are core values of science, but not always part of daily practice. A first iteration of this workshop took place within the context of the [Open Science Tools, Data & Technologies for Efficient Ecological & Evolutionary Research](https://nioo.knaw.nl/en/open-science-tools) event, organized by NIOO-KNAW and DANS-KNAW. It provides an overview of current status in reproducible analysis in order to provide transparency in research. The workshop covers methodological topics (such as the use of the Open Science Framework and reporting guidelines) as well as software tools (such as Git, Docker, RMarkdown / knitr, and Jupyter). Going beyond simple listing and presentations, the second half of the workshop focuses on hands-on skill building, with exercises and tutorials covering most of the software aspects. Material and content is available here: [reproducible-analysis-workshop.readthedocs.io](http://reproducible-analysis-workshop.readthedocs.io)
+**Reproduzierbare Analysen und Transparenz in der Forschung (ganztägiger Workshop)**
 
-**Open Science: what’s in it for me? (1-2 days)**
+Transparenz, Open Sharing und Reproduzierbarkeit sind essentielle Werte der Wissenschaft, aber nicht immer Teil der täglichen Arbeit. Eine erste Wiederholung dieses Workshops fand innerhalb der Veranstaltung [Open Science Tools, Daten & Techniken für eine effiziente, ökologische & evolutionäre Wissenschaft Research](https://nioo.knaw.nl/en/open-science-tools) statt und wurde von NIOO-KNAW und DANS-KNAW organisiert. Der Workshop gibt einen Überblick der aktuellen Entwicklungen von Reproduzierbarkeitsanalysen, um mehr Transparenz in der Forschung zu schaffen. Der Fokus liegt sowohl auf methodischen Themen (wie die Anwendung des Open Science Frameworks und Leitlinien) als auch auf Software-Tools (wie Git, Docker, RMarkdown / knitritr, und Jupyter). Neben einer ersten, einfachen Übersicht und Präsentation konzentriert sich die zweite Hälfte des Workshops auf den Ausbau von praktischen Fähigkeiten durch Übungen und Tutorials, die meistens Softwareaspekte abdecken. Material und Inhalt sind hier verfügbar: [reproducible-analysis-workshop.readthedocs.io](http://reproducible-analysis-workshop.readthedocs.io)
 
-The aim of the workshop is to provide researchers and administrators with hands-on examples of Open Science tools and workflow examples across various disciplines, and to start applying and discussing these. For this, we present an overview of Open Science practices and tools that are used throughout the scientific workflow, with practical examples, audience polling and interactive discussions. The second day is oriented at application and sharing. In various rounds participants explore and where possible try out or apply tools and practices. They do this in small groups and individually and also in a lively marketplace. In a final session we have a discussion on obstacles and incentives for switching to open science in your own research.
 
-* [Open Science - what’s in it for me](https://www.authorea.com/users/111423/articles/200860-open-science-workshop-what-s-in-it-for-me-postmortem-report) (Vienna, 2017, workshop report)
+**Open Science: Was hab ich davon? (1-2-tägiger Workshop)**
 
-* [Open Science - what’s in it for me](http://www.oa.unito.it/new/open-science-whats-in-it-for-me-torino-8-e-9-marzo-2018/) (Torino, 2018, workshop program)
+Ziel des Workshops ist es, Forschern und Verwaltungspersonal praktische Beispiele für Open Science-Tools und Workflow-Beispiele aus verschiedenen Disziplinen zu vermitteln und mit deren Anwendung und Diskussion zu beginnen. Dazu geben wir zuerst einen Überblick über Open Science-Techniken und -Tools, die im gesamten wissenschaftlichen Arbeitsablauf und dessen Prozess eingesetzt werden, mit Hilfe von praktischen Beispielen, Umfragen und interaktiven Diskussionen. Der zweite Tag ist auf Anwendung und Austausch ausgerichtet. In verschiedenen Runden erkunden und testen die Teilnehmer Tools und Techniken und wenden diese nach Möglichkeit an. Dies wird zuerst in kleinen Gruppen und einzeln geprobt und später auch vor größerem Publikum. In einer abschließenden Runde werden die Hindernisse und auch Anreize für den Wechsel zu Open Science in der eigenen Forschung diskutiert.
 
-**Carpentry workshops (2 days)**
+* [Open Science - Was hab ich davon?](https://www.authorea.com/users/111423/articles/200860-open-science-workshop-what-s-in-it-for-me-postmortem-report) (Vienna, 2017, Workshopbericht)
 
-A Carpentry workshop is a hands-on two-day event that covers the core skills needed to be productive in a small research team. Short tutorials alternate with practical exercises, and all instruction is done via live coding. Software Carpentry was founded in 1998 and Data Carpentry was founded in 2013. Both focus on computational skills, run two-day workshops taught by volunteer instructors, and strive to fill gaps in current training for researchers. However, they differ in their content and intended audience. Data Carpentry workshops focus on best practices surrounding data. Its learners are not people who want to learn about coding, but rather those who have a lot of data and don’t know what to do with it. Data Carpentry workshops are aimed at pure novices, are domain-specific, and present a full curriculum centered around a single data set. Software Carpentry workshops are intended for people who need to program more effectively to solve their computational challenges, are not domain-specific, and are modular—each Software Carpentry lesson is standalone.
+* [Open Science - Was hab ich davon?](http://www.oa.unito.it/new/open-science-whats-in-it-for-me-torino-8-e-9-marzo-2018/) (Torino, 2018, Workshopprogramm)
+
+
+**Handwerks-Workshops (2-tägiger Workshop)**
+
+Ein Handwerks- oder Carpentry Workshop ist ein zweitägiges praktisches Seminar, das Kernkompetenzen vermittelt, die für die Produktivität eines kleinen Forschungsteams erforderlich sind. Kurze theoretische Tutorials wechseln sich mit praktischen Übungen ab und der gesamte Unterricht findet in einer integrierten Entwicklungsumgebung (LiveCode) statt. Es gibt zwei Arten: Software Carpentry wurde 1998 und Data Carpentry 2013 gegründet. Beide fokussieren sich auf IT-Fähigkeiten, finden im Rahmen von zweitägigen Workshops, die von Ehrenamtlichen geleitet werden, statt und bemühen sich, die Lücken der aktuellen Ausbildung von Forschenden zu schließen. Sie unterscheiden sich jedoch im Inhalt und der Zielgruppe. Data Carpentry Workshops konzentrieren sich auf Best Practices rund um Daten. Die Lernenden wollen nichts über Programmieren lernen, sondern haben viele Daten und wissen nicht, was sie damit anfangen sollen. Data Carpentry Workshops richten sich an reine Anfänger, sind oft fachpezifisch und präsentieren einen vollständigen Lehrplan, der sich um einen einzigen Datensatz dreht. Software Carpentry Workshops sind für Personen gedacht, die effektiver programmieren wollen, um ihre Herausforderungen zu lösen. Außerdem sind Software Capentry Workshops nicht fachspezifisch und modular aufgebaut, d.h. jede Software Carpentry Lektion ist eigenständig.
 
 * [Software Carpentry](https://software-carpentry.org)
 
 * [Data Carpentry](http://www.datacarpentry.org/)
 
-**EIFL Train-the-Trainer program (4 days)**
 
-EIFL organized a train-the-trainers program for five universities in EIFL partner countries (Ethiopia, Ghana, Zimbabwe, Tanzania, and Nepal) that have committed to integrating open access, open science and open research data into courses for PhD students. Day 1 covered open access and open data. Day 2 and 3 were dedicated to open science across the research workflow, including current practices at participant’s universities. On Day 4, participants designed and prepared their own training program. 
+**EIFL Train-the-Trainer Programm (4 Tage)**
+Das Bündnis Electronic Information for Libraries (EIFL) organisierte ein Train-the-Trainers Programm für fünf Universitäten in den EIFL Partnerländern (Äthiopien, Ghana, Simbabwe, Tansania und Nepal), die sich für die Integration von Open Access, Open Science und Open Research Data in Kursen für Doktoranden stark gemacht haben. Tag 2 und 3 fokussierte sich auf Open Science im gesamten Forschungsprozess, einschließlich der aktuellen Techniken und Praktiken an den Universitäten der Teilnehmer. Am vierten Tag gestalteten und bereiteten die Teilnehmer ihr eigenes Trainingsprogramm vor.
 
-* [EIFL Train-the-trainer program](https://osf.io/qf76a/) (Addis Ababa, 2017, program and materials)
+* [EIFL Train-the-trainer Programm](https://osf.io/qf76a/) (Addis Ababa, 2017, program and materials)
 
-**Open Science summer schools (5 days)**
 
-Various universities across Europe organize weeklong summer schools on open science, primarily aimed at early career researchers. These events cover a variety of topics in five days, usually with many hands-on activities to apply open science into daily practice. 
+**Open Science Summer Schools (5 Tage)**
 
-* [EPFL Summer school Open Science in Practice ](http://archiveweb.epfl.ch/osip2017.epfl.ch/page-146300-fr.html)(2017, program overview)
+Verschiedene Universitäten in ganz Europa organisieren einwöchige Summer Schools zu Open Science, die sich vor allem an den Nachwuchs richten. Diese Veranstaltungen decken an fünf Tagen eine Vielzahl von Themen ab, in der Regel mit vielen praktischen Aktivitäten und Tools, um Open Science in der täglichen Praxis anzuwenden. 
 
-* [Utrecht University Summer school Open Science and Scholarship](https://tinyurl.com/sumsopenscience2017) (2017, program and materials)
+* [EPFL Summer school Open Science in der Praxis](http://archiveweb.epfl.ch/osip2017.epfl.ch/page-146300-fr.html)(2017, Programmübersicht)
 
-* [Essex Summer school in Social Science and Data Analysis - Introduction in Open Science](https://www.fosteropenscience.eu/event/essex-summer-school-social-science-data-analysis-introduction-open-science) (2017, program overview) 
+* [Utrecht University Summer school Open Science und Stipendien](https://tinyurl.com/sumsopenscience2017) (2017, Programm und Materialien)
 
-* [LERU Doctoral Summer school on Data Stewardship](https://www.graduateacademy.uni-heidelberg.de/md/gradakad/akademie/leru_summer_school_2016_description.pdf) (2016, description, learning objectives) 
+* [Essex Summer school in Sozialwissenschaften und Datenanlyse - Eine Einführung zu Open Science](https://www.fosteropenscience.eu/event/essex-summer-school-social-science-data-analysis-introduction-open-science) (2017, Programmübersicht)
+
+* [LERU Doctoranden Summer school zu Datenveranwtortung](https://www.graduateacademy.uni-heidelberg.de/md/gradakad/akademie/leru_summer_school_2016_description.pdf) (2016, Beschreibung und Lernziele) 
 
 
 ![image alt text](/Images/image_6.png)
 
-*Program schedule Summer School Open Science and Scholarship, Utrecht University 2017*
+*Programmübersicht Summer School Open Science und Stipendien, Universität Utrecht 2017*
 
-### Example Exercises
+### Übungsbeispiele
 
-#### Master Template
+#### Master Vorlage
 
-* Format, time needed 
+* Format, Zeitbedarf 
 
 * Topic \([see Open Science Basics](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/README.md)\)
 
