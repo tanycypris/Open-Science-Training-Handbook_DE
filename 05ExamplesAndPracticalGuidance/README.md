@@ -173,7 +173,7 @@ Verschiedene Universitäten in ganz Europa organisieren einwöchige Summer Schoo
     <td>4</td>
     <td>Open Science Diskussionsthemen</td>
     <td>Offene Konzepte und Grundsätze</td>
-    <td>Gleine Gruppen</td>
+    <td>Kleine Gruppen</td>
     <td>20-30 Min</td>
   </tr>
   <tr>
@@ -292,195 +292,195 @@ Open Educational Resources</td>
   </tr>
   <tr>
     <td>21</td>
-    <td>Taking a stance</td>
-    <td>Open Science Policies</td>
-    <td>whole group</td>
-    <td>10 min</td>
+    <td>Vertritt (d)einen Standpunkt</td>
+    <td>Open Science Politik</td>
+    <td>Ganze Gruppe</td>
+    <td>10 Min</td>
   </tr>
   <tr>
     <td>22</td>
-    <td>Plain language explanations (in progress)</td>
-    <td>Citizen Scientists and Science Communication
+    <td>Klartext Reden und einfache Erklärungen (in Arbeit)</td>
+    <td>Citizen Scientists und Wissenschaftkommunikation
 
-Collaborative Platforms</td>
-    <td>small groups</td>
-    <td>2-3 hours</td>
+Kooperationsnetzwerke</td>
+    <td>Kleine Gruppen</td>
+    <td>2-3 Stunden</td>
   </tr>
   <tr>
     <td>23</td>
-    <td>Devil’s advocate - convincing the skeptics</td>
+    <td>Der Anwalt des Teufels - Überzeuge die Skeptiker</td>
     <td>Open Advocacy</td>
-    <td>small groups</td>
-    <td>30 min</td>
+    <td>Kleine Gruppen</td>
+    <td>30 Min</td>
   </tr>
   <tr>
     <td>24</td>
-    <td>Set up OSF project & link to other platforms (in progress)</td>
-    <td>Open Research Data and Materials</td>
+    <td>Erstelle ein OSF Projekt & verlinke es zu einer anderen Plattform (in Arbeit)</td>
+    <td>Offene Forshcungsdaten und Materialien</td>
     <td>einzeln / in Paaren</td>
     <td></td>
   </tr>
   <tr>
     <td>25</td>
-    <td>The publishing trap (in progress)</td>
-    <td>Open Access to Published Research Results</td>
-    <td>small group exercise</td>
-    <td>2 hours</td>
+    <td>Die Publikations-Falle (in Arbeit)</td>
+    <td>Von Open Access zur Veröffentlichung wissenschaftlicher Ergebnisse</td>
+    <td>Kleine Gruppen</td>
+    <td>2 Stunden</td>
   </tr>
    <tr>
     <td>26</td>
-    <td> (in progress)</td>
-    <td>Open Research Data and Materials</td>
-    <td>small group exercise</td>
-    <td>4 days (5 hrs/day)</td>
+    <td> (in Arbeit)</td>
+    <td>Offene Forschungsdaten und Materialien</td>
+    <td>Kleine Gruppen</td>
+    <td>4 Tage (5 Stunden/Tag)</td>
   </tr>
    <tr>
     <td>27</td>
-    <td>Train-the-trainer card game for Open Science training</td>
+    <td>Train-the-trainer Kartenspiel für Open Science Training</td>
     <td>Open Advocacy</td>
-    <td>small group exercise</td>
-    <td>2 hours</td>
+    <td>Kleine Gruppen</td>
+    <td>2 Stunden</td>
   </tr>
 </table>
 
 
-##### **Example 1: Line up!**
+##### **Beispiel 1: Line up!**
 
-* Format, time needed 
+* Format, Zeitbedarf 
 
-    * Group exercise, 5–10 minutes
+    * Ganze Gruppe, 5–10 Minuten
 
-* Topic 
+* Thema
 
-    * Icebreaker, can be on topic or unrelated 
+    * Icebreaker, kann auf ein Thema bezogen sein oder ohne Bezug zum Thema 
 
-* Learning objectives 
+* Lernziele 
 
-    * Get participants to loosen up
+    * Die Stimmung der Teilnehmenden auflockern und die Teilnehmenden selbst entspannen
 
-* Exercise description
+* Beschreibung der Übung, Anleitung
 
-    * Imaginary line in the room forms a spectrum between ‘strongly agree’ and ‘strongly disagree’. One participant, or the moderator, makes a statement (can be on topic ‘closed data should not be cited’ or off-topic ‘leggings are not trousers’. All participants have to position themselves along the imaginary line. The moderator asks some participants to explain their (literal) standpoint. 
+    * Eine imaginäre Linie im Raum bildet das Spektrum zwischen „vollständig zustimmen“ und „vollständig ablehnen“ ab. Ein Teilnehmender oder der Moderierende gibt eine Erklärung ab (kann sich auf das Thema beziehen: „Closed Data sollten nicht zitiert werden“ oder keinen Bezug zum Thema haben: „Leggings sind keine Hosen“). Alle Teilnehmende müssen sich entlang der Linie positionieren. Der Moderierende bittet einige Teilnehmende ihren (wörtlichen) Standpunkt zu erläutern.  
 
-* Materials and tools needed
+* Benötigte Materialien und Hilfsmittel
 
-    * None
+    * Keine
 
-* Level of prior knowledge needed
+* Benötigte Vorkenntnisse
 
-    * None
+    * Keine
 
-* Things to bear in mind
+* Zu beachtende Punkte
 
-    * Make sure not only the opinionated people are talking. Ask people who linger in the middle to explain their point of view. 
+    * Achte darauf, dass nicht nur Teilnehmende mit extremen Standpunkten reden. Sondern bitte auch die, die sich eher in der Mitte des Sprektrum platzieren, ihren Standpunkt zu erklären. 
 
-* How to adapt for other purposes
+* Wie man die Übung für andere Zwecke anpassen kann
 
-    * Adapt the type of question to the situation. For a new group, allow people to make an off-topic or trivial statement, but the technique can also be used to test the waters on certain controversial subjects related to the topic of the workshop, especially with people who have been working together for a while already (e.g., on a second day of a workshop)
+    * Passe die Art der Frage an die Situation an. Erlaube einer neuen Gruppe, eine Off-Topic- oder Trivialaussage zu machen, allerdings kann die Übung auch verwendet werden, um das Meinungsbild zu bestimmten kontroversen Themen zu testen, die mit dem Thema des Workshops zusammenhängen, insbesondere bei Gruppen von Personen, die bereits eine Weile zusammenarbeiten (z.B. am zweiten Tag eines Workshops).
 
-##### **Example 2: Prioritization of training needs**
+##### **Beispiel 2: Priorisierung des Trainingbedarfs**
 
-* Format, time needed 
+* Format, Zeitbedarf
 
-    * Plenary, ~10 minutes
+    * Große Gruppe, ~10 Minuten
 
-* Topic
+* Thema
 
-    * [Open Concepts and Principles](/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
+    * [Begriffe und Konzepte in Open Science](/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
 
-* Learning objectives
+* Lernziele
 
-    * Identify knowledge gaps / areas participants feel they would most benefit from training in.  
+    * Identifizieren von Wissenslücken / Bereichen, deren Training / Übung den Teilnehmenden am meisten nützen würde
+    
+    * (optional) Identifizieren von Bereichen, in denen sich die Teilnehmenden kompetent fühlen (und so ihr eigenes Wissen teilen können)
 
-    * (optional) Identify areas participants feel knowledgeable about (and can thus share their own knowledge).
+* Übungsbeschreibung, Anleitung
 
-* Exercise description
+    * Führe zuerst kurz den Forschungszyklus und die darin enthaltenen Aktivitäten ein.
 
-    * Briefly introducing the research cycle and activities therein.
+    * Bitte jeden Teilnehmenden zwei bis drei Aktivitäten, von denen sie (in Bezug auf Open Science) am meisten profitieren würden, des Forschungszyklus zu benennen.
 
-    * Ask participants to individually identify two to three activities they would most benefit getting training in (in relation to open science).
+    * (Optional) Frage die Teilnehmenden, in welchen Bereichen sie sich in Bezug auf Open Science bereits auskennen.
 
-    * Optionally, also ask participants which two to three areas they already feel knowledgeable about (again, in relation to open science).
+    * Die Teilnehmenden können auf ihren Ausdrucken bunte Klebepunkte (Wissen vorhanden, kein Vorwissen) für jede Frage hinzufügen (siehe Bild).
 
-    * On individual printouts, participants add sticky dots for each question.
+    * Die Teilnehmenden sollen dann weitere Klebepunkte auf den gemeinsamen Ausdruck nach ihrer Vorarbeit hinzufügen.
 
-    * Participants then add similar sticky dots to the communal printout.
-
-    * Discuss the results with the full group. Make sure people when seeing the dots also realize there may be a big opportunity for learning from other participants.
+    * Diskutiere das Ergebnis mit der ganzen Gruppe. Betone die große Chance voneinander lernen zu können in Hinblick auf die Klebepunkte auf dem gemeinsamen Ausdruck. Wählt die zu besprechenden Themen so gemeinsam aus.
 
 ![image alt text](/Images/image_7.png)
 
-* Materials and tools needed
+* Benötigte Materialien und Hilfsmittel
 
-    * Printout of [research cycle with activities](https://www.dropbox.com/s/l6wvhxm0rj6pdiy/OS-handbook_exercise_BK-1.png?dl=0): one for each participant and a  communal one
+    * Ausdrucke von [Forschungszyklus mit Aktivitäten](https://www.dropbox.com/s/l6wvhxm0rj6pdiy/OS-handbook_exercise_BK-1.png?dl=0): einen für jeden Teilnehmenden und einen großen, gemeinsamen Ausdruck.
 
-    * Sticky dots in two colors
+    * Klebepunkte in verschiedenenen Farben
 
 ![image alt text](/Images/image_8.png)
 
-* Level of prior knowledge needed
+* Benötigte Vorkenntnisse
 
-    * None; some familiarity with the research cycle is helpful.
+    * Keine; Kentnisse des Forschungszyklus sind hilfreich.
 
-* Things to bear in mind
+* Zu beachtende Punkte
 
-    * Best at the beginning of a longer training program where multiple topics will be covered.
+    * Der beste Zeitpunkt für diese Übung ist zu Beginn eines längeren Trainings bei dem mehrere Themen behandelt werden. 
+    
+    * Wähle Klebepunkte, die auch für farbenblinde Menschen geeignet sind. 
 
-    * For the sticky dots, choose a combination that is colour-blind friendly.
+    * Die Anzahl der auszuwählenden Themen ist abhängig von der Anzahl der Teilnehmenden zu gestalten (z.B. drei für kleinere Gruppen, zwei frü größere Gruppen).
 
-    * The number of activities to choose depends on the number of participants (e.g., three for smaller groups, two for larger groups).
+    * Die individuellen Ausdrucke sollen Bias / Gruppendruck vermeiden.
 
-    * Individual printouts are used to prevent peer pressure / bias.
+    * Die Ausdrucke können während des restlichen Trainigs als Referenz aufbewahrt werden.
 
-    * Individual printouts can be kept for reference during the remaining of the training.
+* Wir man die Übung für andere Zwecke anpassen kann
 
-* How to adapt for other purposes
+    * Diese Übung kann sehr leicht thematisch für andere Zwecke angepasst werden. 
 
-    * This exercise can easily be adapted to prioritize other topics.
+##### **Beispiel 3: Auswahl der Open Science Methoden und Techniken**
 
-##### **Example 3: Selection of open science practices**
+* Format, Zeitbedarf
 
-* Format, time needed
+    * GRoße Gruppe, 1–1,5 Stunden
 
-    * Plenary, 1–1.5 hours
+* Thema
 
-* Topic
+    * [Begriffe und Konzepte in Open Science](/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
 
-    * [Open Concepts and Principles](/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
+* Lernziele 
 
-* Learning objectives 
+    * Kennenlernen des gesamten Spektrums von Open Science-Techniken und Methoden während des ganzen Forschungsprozesses.
+    
+    * Beurteilung welche Techniken am leichtesten durchführbar, machbar und effektisten sind.
 
-    * See the spectrum of open science practices across the full research workflow.
+* Beschreibung der Übung, Anleitung
 
-    * Assess which practices would the most feasible and effective to focus on. 
+    * Sortiere die Karten vor der Übung nach Forschungsphase und verteile sie im Raum (z.B. auf dem Tisch, in einer langen Reihe auf dem Boden).
 
-* Exercise description
+    * Beschrifte Teile der Wand (auch Fenster oder Pinnwände können verwendet werden) mit den verschiedenen Phasen des Forschungszyklus (z.B. Vorbereitung, Entdeckung, Analyse, Schreiben, Veröffentlichung, Outreach, Evaluation).
 
-    * Prior to the exercise, sort the cards according to research phase/activity and spread them across the room (e.g., on tables, or on a large section of the floor).
+    * Bitte die Teilnehmenden Karten mit Techniken/Aktivitäten auszuwählen, von denen sie denken, dass sie besonders wichtig für Open Science sind und hängt diese Karten unter die jeweilige Forschungsphase.
 
-    * Mark a large section of a wall (windows or pinboards can also be used) with the different phases of the research cycle (e.g., preparation, discovery, analysis, writing, publication, outreach, assessment).
+    * Ermutige Teilnehmenden weitere Aktivitäten auf zusätzlichen leeren Karten zu ergänzen.
+    
+    * Teile die Gruppe in sieben kleinere Gruppen nach den sieben Phasen des Forschungszyklus ein.
 
-    * Ask participants to select practices they feel are really important for open science, and hang them on the wall, grouped by research phase.
+    * Jede Gruppe schaut sich die Mathoden/Techniken für ihre Phase an und wählt die zwei aus, die *am besten durchführbar* und *am effektivsten, um Forschung offener und transparenter zu gestalten* sind. Entweder werden die übrigen Karten entfernt oder die beiden ausgewählten Karten markiert (z.B. höher gehängt).
+    
+    * Die sieben Kleingruppen erklären anschließend ihre Wahl allen Teilnehmenden.  
 
-    * Encourage people to add research practices that are not included in the cards.
+    * Die ausgewählten Techniken und Aktivitäten können am Ende einen Entwurf eines möglichen Open Science Workflows abbilden. 
 
-    * Divide participants in seven groups.
+    * Als Folgeübung können die Teilnehmenden mögliche Schritte zur Umsetzung dieses Plans und der einzelnen Techniken diskutieren: 
+    
+        1. Welche Tools/Plattformen können verwendet werden
 
-    * Each group looks at the selected practices for one research phase, and chooses the two practices that they feel are *most feasible to implement* and *most effective to make research more open*. Either move these cards higher up on the wall, or remove the other cards.
+        2. Welche potenziellen Anreize und Hürden würden sich daraus ergeben?
 
-    * The small groups explain their choice to all participants. 
+        3. Welche Art von Unterstützung wäre nötig?
 
-    * Together, the selected research practices can form a blueprint of an open science workflow. 
-
-    * As a follow-up exercise, participants can discuss possible steps to implement these practices: 
-
-        1. what tools/platforms can be used
-
-        2. what potential incentives and barriers would be
-
-        3. what support would be needed
-
-        4. what policy changes would be needed
+        4. Welche politischen Änderungen wären erforderlich?
 
 ![image alt text](/Images/image_9.png)
 
@@ -488,37 +488,37 @@ Collaborative Platforms</td>
 
 ![image alt text](/Images/image_11.png)
 
-* Materials and tools needed
+* Benötigte Materialien und Hilfsmittel
 
-    * Large wall, windows, or multiple pinboards to hang materials on
+    * Leere Wände, große Fenster, mehrere Pinnwände, oder Flipcharts, um die Karten aufzuhängen
 
-    * Enough room to move around
+    * Genug Platz, um sich frei zu bewegen
 
-    * Printed [cards with open science practices](https://doi.org/10.6084/m9.figshare.4627954.v1) (also available as [editable powerpoint slides](https://doi.org/10.6084/m9.figshare.4627999.v1) or in a [Google spreadsheet](https://docs.google.com/spreadsheets/d/1TmrfhfLlCvyCPw5Xo7cMY0FAKzVlVQa1603IsTs-02o/edit#gid=114671496))
+    * Gedruckte [Karten mit Open Science Techniken](https://doi.org/10.6084/m9.figshare.4627954.v1) (verfügbar auch als [anpassbare und veränderliche Powerpoint Slides](https://doi.org/10.6084/m9.figshare.4627999.v1) oder in einem [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1TmrfhfLlCvyCPw5Xo7cMY0FAKzVlVQa1603IsTs-02o/edit#gid=114671496))
 
-    * Empty cards, pens / markers
+    * Leere Karten, Stifte, Marker
 
-    * Pins or tape 
+    * Reiszwecken, Pins oder Klebeband
 
-* Level of prior knowledge needed
+* Benötigte Vorkenntnisse
 
-    * None, some familiarity with the research process is helpful
+    * Keine, aber Kenntnisse des allgemeinen Forschungsprozess sind hilfreich
 
-* Things to bear in mind
+* Zu beachtende Punkte
 
-    * Depending on the number of participants, small groups can prioritize practices for more than one research phase.
+    * Abhängig von der Gruppengröße, können die Kleingruppen auch mehrere Forschungsphasen bearbeiten.
 
-    * Test tape on windows / walls first, some types are really hard to remove :-) 
+    * Teste das Klebeband zuerst an den Fenstern/der Wand; manche Klebebänder sind schwierig wieder zu entfernen :-) 
 
-    * The whole group may not agree with the small group’s selection of practices for a given research phase. Decide beforehand whether to stick with the choices made, or whether there is room for discussion and consensus-based swapping of practices.
+    * Vielleicht stimmt nicht die ganze Gruppe den Entscheidungen der Kleingruppen zu. Entscheide deshalb vorher ob ihr bei den Entscheidungen, die getroffen wurden bleibt, oder ob es Raum für Diskussionen und mögliche, demokratische Änderungen der Auswahl gibt. 
 
-* How to adapt for other purposes
+* Wie man die Übung für andere Zwecke anpassen kann
 
-    * The exercise could be modified to focus on specific activities / a specific phase of the research cycle (e.g., publication or assessment).
+    * Der Fokus der Übung kann auf eine bestimmte Methode oder eine bestimmte Phase des Forschungszyklus (z.B. Publikationen oder Evaluation) gelegt werden.
 
-    * Other selection criteria could be used, e.g. practices participants use themselves, or practices that would be most ideal (independent of feasibility/efforts needed).
+    * Man kann andere Auswahlkriterien benutzen, z.B. Techniken und Methoden, die die Teilnehmenden selbst verwenden, oder Techniken und Methoden, die ideal wären (unabhängig von der Durchführbarkeit und dem Aufwand).
 
-##### **Example 4: Open Science discussion topics**
+##### **Beispiel 4: Open Science discussion topics**
 
 * Format, time needed 
 
@@ -621,7 +621,7 @@ good that it deserves to go on this card.
 
     * At the end, each moderator reports on what has been said by the different groups at their table. 
 
-##### **Example 6: What is research data for me?**
+##### **Beispiel 6: What is research data for me?**
 
 * Format, time needed
 
@@ -655,7 +655,7 @@ good that it deserves to go on this card.
 
 You can shorten the activity by skipping the pair/group work and just discuss in the plenary
 
-##### **Example 7: Why not share data?**
+##### **Beispiel 7: Why not share data?**
 
 * Format, time needed 
 
@@ -689,7 +689,7 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 
     * The same format could easily be adapted for many other elements of Open Science, e.g., Open Access (why not publish OA, etc.)
 
-##### **Example 8: "Open Data Excuse" Bingo**
+##### **Beispiel 8: "Open Data Excuse" Bingo**
 
 * Format, time needed
 
@@ -723,7 +723,7 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 
     * This exercise can be adapted to other topics (material would need to be adapted also)
 
-##### **Example 9: Me and my data - Datagramms**
+##### **Beispiel 9: Me and my data - Datagramms**
 
 * Format, time needed
 
