@@ -520,69 +520,69 @@ Kooperationsnetzwerke</td>
 
 ##### **Beispiel 4: Open Science discussion topics**
 
-* Format, time needed 
+* Format, Zeitbedarf 
 
-    * Small groups, 20–30 minutes 
+    * Kleine Gruppen, 20–30 Minuten 
 
-* Topic 
+* Thema
 
-    * [Open Concepts and Principles](/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
+    * [Begriffe und Konzepte in Open Science](/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
 
-* Learning objectives 
+* Lernziele 
 
-    * Confront own experiences and opinions on open science with perspectives from others.
+    * Vergleich der eigenen Erfahrungen und Meinungen über Open Science mit den Perspektiven der anderen.
 
 ![image alt text](/Images/image_12.png)
 
-* Exercise description
+* Übungsbeschreibung
 
-    * Divide participants in groups of four or five and distribute discussion topics (e.g., printed out on paper).
+    * Teile die Gruppe in kleinere Gruppen mit je vier bis fünf Personen auf und verteile Diskussionsthemen (z.B. ausgedruckt auf Karten)
 
-    * Have groups discuss the topics from participants’ own perspectives.
+    * Lass die Gruppen die Themen aus Sicht der Teilnehmenden diskutieren.
 
-    * (optional) Have each group summarize most important points that came up for the whole group .
+    * (optional) Lass jede Gruppe die wichtigsten, gemeinsamen Punkte zusammenfassen.
 
-    * Suggestions for discussion topics:
+    * Vorschläge für Diskussionsthemen
 
-        5. "Working in an Open Science manner makes research more fun"
+        5. "Durch Open Science macht Forschung mehr Spaß"
 
-        6. "Scooping is a real and existing problem that makes Open Science a hard choice"
+        6. "Scooping is ein reales und bestehendes Problem, das Open Science zu einer schwierigen Entscheidung macht"
 
-        7. "APCs (article processing charges) are the main obstacle to publishing more in Open Access"
+        7. "APCs (article processing charges, Artikelbearbeitungsgebühren) sind die größte Hürde, um mehr Open Access zu veröffentlichen."
 
-        8. "We need more explicit support for Open Science from funders and the  government"
+        8. "Wir brauchen mehr und ausdrückliche Unterstützung für Open Science von den Drittmittelgebern und der Regierung."
 
-        9. "Engaging in open peer review is problematic for young researchers that want to make a career"
+        9. "Die Teilnahme an Open Peer Review ist für NachwuchswissenschaftlerInnen, die eine Karriere machen wollen, schwierig"
 
-        10. "We should take citizen scientists more seriously, and also not just see them as data suppliers"
+        10. "Wir sollten Teilnehmende an Citizen Science ernster nehmen und sie nicht nur als Datenlieferanten sehen."
 
-        11. "Impact factors are a symptom and not the cause of the publishing rat-race"
+        11. "Impact-Faktoren sind ein Symptom, aber nicht die Ursache für das Publikations-Wettrennen."
 
-        12. "There is absolutely no reason we should not publish a paper as a preprint as soon as it is ready"
+        12. "Es gibt absolut keinen Grund, warum ein Paper, sobald es fertig ist, nicht als Preprint veröffentlicht werden sollte."
 
-        13. "Just sharing our data is fine, but to speed up science we need to also work on interoperability and reusability of those data"
+        13. "Die reine Weitergabe von Daten ist in Ordnung, aber um die Wissenschaft wirklich zu beschleunigen, müssen wir an Interoperabilität und Wiederverwendbarkeit dieser Daten arbeiten."
 
-        14. "Sharing ideas and projects through ResearchGate is a good way of doing outreach for our research"
+        14. "Ideen und rojekte über ResearchGate auszutauschen und zu teilen ist ein geeigneter Weg, um unsere Forschung zu verbreiten."
 
-        15. "Demands of our PIs are probably the main reason why young researchers do not engage more in Open Science"
+        15. "Die Anforderungen an junge PIs sind wahrscheinlich der Hauptgrund, warum sich Nachwuchswissenschaftler nicht mehr für Open Science engagieren."
 
-        16. "We should strive to create a kind of ‘commons’ where we share all our research outcomes/objects to foster collaboration and reuse"
+        16. "Wir sollten uns bemühen eine Art "Allgemeingut" (‘commons’) zu erschaffen, in der wir alle Forschungsergebnisse und Objekte teilen, um die Zusammenarbeit und Wiederverwendung zu fördern."
 
-* Materials and tools needed
+* Benötigte Materialien und Hilfsmittel
 
-    * Printouts of discussion topics
+    * Ausgedruckte Diskussionsthemen
 
-* Level of prior knowledge needed
+* Benötigtes Vorwissen
 
-    * Some familiarity with the research system.
+    * Eine gewisse Kenntnis des Forschungssystems.
 
-* Things to bear in mind
+* Zu beachtende Punkte
 
-    * This exercise is best suited to researchers (rather than support people), because they can directly relate to their own situation and speak from their own experience .
+    * Diese Übung funktioniert am besten mit Forschenden (anstatt mit Multiplikatoren und Supportmitarbeiten), weil sie sich direkt auf ihre eigene Situation beziehen und aus eigener Erfahrung sprechen können.
 
-* How to adapt for other purposes
+* Wie man die Übung für andere Zwecke anpasst
 
-    * By changing the discussion statements, this exercise can be adapted to other topics.
+    * Diese Übung kann sehr leicht auf andere Thmen übertragen werden, wenn man die Diskussionsthemen und Aussagen dementsprechend ändert.
 
 ##### **Example 5: LIBER Open Science café**
 
