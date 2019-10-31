@@ -185,7 +185,7 @@ Verschiedene Universitäten in ganz Europa organisieren einwöchige Summer Schoo
   </tr>
   <tr>
     <td>6</td>
-    <td>Was verstehe ich unter Forschungsdaten?</td>
+    <td>Was versteht man ich unter Forschungsdaten?</td>
     <td>Offene Forschungsdaten und Materialien</td>
     <td>einzeln / in Paaren</td>
     <td>15 Min</td>
@@ -346,55 +346,55 @@ Kooperationsnetzwerke</td>
 
 ##### **Beispiel 1: Line up!**
 
-* Format, Zeitbedarf 
+* Format, Zeitbedarf: 
 
     * Ganze Gruppe, 5–10 Minuten
 
-* Thema
+* Thema:
 
     * Icebreaker, kann auf ein Thema bezogen sein oder ohne Bezug zum Thema 
 
-* Lernziele 
+* Lernziele: 
 
     * Die Stimmung der Teilnehmenden auflockern und die Teilnehmenden selbst entspannen
 
-* Beschreibung der Übung, Anleitung
+* Übungsbeschreibung, Anleitung:
 
     * Eine imaginäre Linie im Raum bildet das Spektrum zwischen „vollständig zustimmen“ und „vollständig ablehnen“ ab. Ein Teilnehmender oder der Moderierende gibt eine Erklärung ab (kann sich auf das Thema beziehen: „Closed Data sollten nicht zitiert werden“ oder keinen Bezug zum Thema haben: „Leggings sind keine Hosen“). Alle Teilnehmende müssen sich entlang der Linie positionieren. Der Moderierende bittet einige Teilnehmende ihren (wörtlichen) Standpunkt zu erläutern.  
 
-* Benötigte Materialien und Hilfsmittel
+* Benötigte Materialien und Hilfsmittel:
 
     * Keine
 
-* Benötigte Vorkenntnisse
+* Benötigte Vorkenntnisse:
 
     * Keine
 
-* Zu beachtende Punkte
+* Zu beachtende Punkte:
 
     * Achte darauf, dass nicht nur Teilnehmende mit extremen Standpunkten reden. Sondern bitte auch die, die sich eher in der Mitte des Sprektrum platzieren, ihren Standpunkt zu erklären. 
 
-* Wie man die Übung für andere Zwecke anpassen kann
+* Wie man die Übung für andere Zwecke anpassen kann:
 
     * Passe die Art der Frage an die Situation an. Erlaube einer neuen Gruppe, eine Off-Topic- oder Trivialaussage zu machen, allerdings kann die Übung auch verwendet werden, um das Meinungsbild zu bestimmten kontroversen Themen zu testen, die mit dem Thema des Workshops zusammenhängen, insbesondere bei Gruppen von Personen, die bereits eine Weile zusammenarbeiten (z.B. am zweiten Tag eines Workshops).
 
 ##### **Beispiel 2: Priorisierung des Trainingbedarfs**
 
-* Format, Zeitbedarf
+* Format, Zeitbedarf:
 
     * Große Gruppe, ~10 Minuten
 
-* Thema
+* Thema:
 
     * [Begriffe und Konzepte in Open Science](/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
 
-* Lernziele
+* Lernziele:
 
     * Identifizieren von Wissenslücken / Bereichen, deren Training / Übung den Teilnehmenden am meisten nützen würde
     
     * (optional) Identifizieren von Bereichen, in denen sich die Teilnehmenden kompetent fühlen (und so ihr eigenes Wissen teilen können)
 
-* Übungsbeschreibung, Anleitung
+* Übungsbeschreibung, Anleitung:
 
     * Führe zuerst kurz den Forschungszyklus und die darin enthaltenen Aktivitäten ein.
 
@@ -410,7 +410,7 @@ Kooperationsnetzwerke</td>
 
 ![image alt text](/Images/image_7.png)
 
-* Benötigte Materialien und Hilfsmittel
+* Benötigte Materialien und Hilfsmittel:
 
     * Ausdrucke von [Forschungszyklus mit Aktivitäten](https://www.dropbox.com/s/l6wvhxm0rj6pdiy/OS-handbook_exercise_BK-1.png?dl=0): einen für jeden Teilnehmenden und einen großen, gemeinsamen Ausdruck.
 
@@ -418,11 +418,11 @@ Kooperationsnetzwerke</td>
 
 ![image alt text](/Images/image_8.png)
 
-* Benötigte Vorkenntnisse
+* Benötigte Vorkenntnisse:
 
     * Keine; Kentnisse des Forschungszyklus sind hilfreich.
 
-* Zu beachtende Punkte
+* Zu beachtende Punkte:
 
     * Der beste Zeitpunkt für diese Übung ist zu Beginn eines längeren Trainings bei dem mehrere Themen behandelt werden. 
     
@@ -434,27 +434,27 @@ Kooperationsnetzwerke</td>
 
     * Die Ausdrucke können während des restlichen Trainigs als Referenz aufbewahrt werden.
 
-* Wir man die Übung für andere Zwecke anpassen kann
+* Wir man die Übung für andere Zwecke anpassen kann:
 
     * Diese Übung kann sehr leicht thematisch für andere Zwecke angepasst werden. 
 
 ##### **Beispiel 3: Auswahl der Open Science Methoden und Techniken**
 
-* Format, Zeitbedarf
+* Format, Zeitbedarf:
 
     * GRoße Gruppe, 1–1,5 Stunden
 
-* Thema
+* Thema:
 
     * [Begriffe und Konzepte in Open Science](/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
 
-* Lernziele 
+* Lernziele: 
 
     * Kennenlernen des gesamten Spektrums von Open Science-Techniken und Methoden während des ganzen Forschungsprozesses.
     
     * Beurteilung welche Techniken am leichtesten durchführbar, machbar und effektisten sind.
 
-* Beschreibung der Übung, Anleitung
+* Übungsbeschreibung, Anleitung:
 
     * Sortiere die Karten vor der Übung nach Forschungsphase und verteile sie im Raum (z.B. auf dem Tisch, in einer langen Reihe auf dem Boden).
 
@@ -488,7 +488,7 @@ Kooperationsnetzwerke</td>
 
 ![image alt text](/Images/image_11.png)
 
-* Benötigte Materialien und Hilfsmittel
+* Benötigte Materialien und Hilfsmittel:
 
     * Leere Wände, große Fenster, mehrere Pinnwände, oder Flipcharts, um die Karten aufzuhängen
 
@@ -500,11 +500,11 @@ Kooperationsnetzwerke</td>
 
     * Reiszwecken, Pins oder Klebeband
 
-* Benötigte Vorkenntnisse
+* Benötigte Vorkenntnisse:
 
     * Keine, aber Kenntnisse des allgemeinen Forschungsprozess sind hilfreich
 
-* Zu beachtende Punkte
+* Zu beachtende Punkte:
 
     * Abhängig von der Gruppengröße, können die Kleingruppen auch mehrere Forschungsphasen bearbeiten.
 
@@ -512,7 +512,7 @@ Kooperationsnetzwerke</td>
 
     * Vielleicht stimmt nicht die ganze Gruppe den Entscheidungen der Kleingruppen zu. Entscheide deshalb vorher ob ihr bei den Entscheidungen, die getroffen wurden bleibt, oder ob es Raum für Diskussionen und mögliche, demokratische Änderungen der Auswahl gibt. 
 
-* Wie man die Übung für andere Zwecke anpassen kann
+* Wie man die Übung für andere Zwecke anpassen kann:
 
     * Der Fokus der Übung kann auf eine bestimmte Methode oder eine bestimmte Phase des Forschungszyklus (z.B. Publikationen oder Evaluation) gelegt werden.
 
@@ -520,21 +520,21 @@ Kooperationsnetzwerke</td>
 
 ##### **Beispiel 4: Open Science discussion topics**
 
-* Format, Zeitbedarf 
+* Format, Zeitbedarf:
 
     * Kleine Gruppen, 20–30 Minuten 
 
-* Thema
+* Thema:
 
     * [Begriffe und Konzepte in Open Science](/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
 
-* Lernziele 
+* Lernziele: 
 
     * Vergleich der eigenen Erfahrungen und Meinungen über Open Science mit den Perspektiven der anderen.
 
 ![image alt text](/Images/image_12.png)
 
-* Übungsbeschreibung
+* Übungsbeschreibung, Anleitung:
 
     * Teile die Gruppe in kleinere Gruppen mit je vier bis fünf Personen auf und verteile Diskussionsthemen (z.B. ausgedruckt auf Karten)
 
@@ -562,51 +562,51 @@ Kooperationsnetzwerke</td>
 
         9. "Die reine Weitergabe von Daten ist in Ordnung, aber um die Wissenschaft wirklich zu beschleunigen, müssen wir an Interoperabilität und Wiederverwendbarkeit dieser Daten arbeiten."
 
-        10. "Ideen und rojekte über ResearchGate auszutauschen und zu teilen ist ein geeigneter Weg, um unsere Forschung zu verbreiten."
+        10. "Ideen und Projekte über ResearchGate auszutauschen und zu teilen ist ein geeigneter Weg, um unsere Forschung zu verbreiten."
 
         11. "Die Anforderungen an junge PIs sind wahrscheinlich der Hauptgrund, warum sich Nachwuchswissenschaftler nicht mehr für Open Science engagieren."
 
-        12. "Wir sollten uns bemühen eine Art "Allgemeingut" (‘commons’) zu erschaffen, in der wir alle Forschungsergebnisse und Objekte teilen, um die Zusammenarbeit und Wiederverwendung zu fördern."
+        12. "Wir sollten uns bemühen eine Art "Allgemeingut" (‘commons’) zu erschaffen, in dem wir alle Forschungsergebnisse und Objekte teilen, um die Zusammenarbeit und Wiederverwendung zu fördern."
 
-* Benötigte Materialien und Hilfsmittel
+* Benötigte Materialien und Hilfsmittel:
 
     * Ausgedruckte Diskussionsthemen
 
-* Benötigtes Vorwissen
+* Benötigte Vorkenntnisse:
 
     * Eine gewisse Kenntnis des Forschungssystems.
 
-* Zu beachtende Punkte
+* Zu beachtende Punkte:
 
     * Diese Übung funktioniert am besten mit Forschenden (anstatt mit Multiplikatoren und Supportmitarbeiten), weil sie sich direkt auf ihre eigene Situation beziehen und aus eigener Erfahrung sprechen können.
 
-* Wie man die Übung für andere Zwecke anpasst
+* Wie man die Übung für andere Zwecke anpasst:
 
     * Diese Übung kann sehr leicht auf andere Thmen übertragen werden, wenn man die Diskussionsthemen und Aussagen dementsprechend ändert.
 
 ##### **Example 5: LIBER Open Science Café**
 
-* Format, Zeitbedarf
+* Format, Zeitbedarf:
 
     * Kleine Gruppen, 1,5 Stunden
 
-* Thema
+* Thema:
 
     * [Begriffe und Konzepte in Open Science](/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
 
-* Lernziele
+* Lernziele:
 
     * Kentnisse über vershcieden Aspekte von Open Science.
 
     * Vernetzung verschiedener Akteure um Statements und Themen zu diskutieren.
 
-* Benötigte Materialien und Hilfsmittel
+* Benötigte Materialien und Hilfsmittel:
 
     * Das [LIBER Science Café Kartendeck](https://www.fosteropenscience.eu/content/open-science-cafe-card-deck), oder im Vorfeld vorbereitete Aussagen basierend auf [World Café](http://www.theworldcafe.com/wp-content/uploads/2015/07/Cafe-To-Go-Revised.pdf)
 
     * einen Tisch für je 6 Personen
 
-* Übungsbeschreibung
+* Übungsbeschreibung, Anleitung:
 
     * Das Setup: 6-8 Personen versammelen sich um einen Tisch mit 1 Moderator und 1 protokollierenden Person. Um Gespräche zu initiieren erhält die Kleingruppe ein Kartenspiel mit Aussagen und Fragen, die sich auf Open Science beziehen. Die Aussagen dienen als Anregung und Starthilfe für die Gespräche. Nachdem jemand eine Karte gewählt hat, diskutiert die Gruppe über die Aussage und kann dann zur nächsten Karte übergehen. Auf diese Weise lernen die Menschen voneinander und beginnen über das Gesamtbild nachzudenken. In der Zwischenzeit kannst du wertvolle Informationen von den verschiedenen Akteuren einholen.
 
@@ -620,33 +620,33 @@ Kooperationsnetzwerke</td>
 
     * Am Ende berichtete jeder Moderator was die verschiedenen Gruppen an den einzelnen Tischen geasgt haben 
 
-##### **Beispiel 6: Was verstehe ich unter Forschungsdaten?**
+##### **Beispiel 6: Was versteht man unter Forschungsdaten?**
 
-* Format, Zeitbedarf
+* Format, Zeitbedarf:
 
     * Einzel-/Paarübung, 15 Minuten
 
-* Thema
+* Thema:
 
     * [Offene Forschungsdaten und Materialien](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
-* Lernziele
+* Lernziele:
 
     * Kentnisse über eigene Forschungsdaten und über Forschungsdaten im Fachbereich
 
-* Übungsbeschreibung
+* Übungsbeschreibung, Anleitung:
 
     * Lass die Teilnehmenden kurz über das letzte Paper, das sie selbst geschrieben oder gelesen haben, nachdenken. Gab es ergänzendes Material („supplementary material“, z.B. Tabellen, Bilder)? Lasse sie Beispiele und Typen von Forschungsdaten aus ihrem eigenen Forschungsfeld aufschreiben. Welche Informationen oder Daten würde man benötigen um die Studie zu wiederholen? Was, bzw. welche Daten wären notwenidg, damit die eigenen Publikationen richtig verstanden werden? Später sollen die Ergebnisse entweder von Paaren oder Kleingruppen (nach kurzer Absprache) im Plenum präsentiert werden. 
 
-* Benötigte Materialien und Hilfsmittel
+* Benötigte Materialien und Hilfsmittel:
 
     * Papier und Stift
 
-* Benötigtes Vorwissen
+* Benötigte Vorkenntnisse:
 
     * Kein vorwissen notwendig
 
-* Zu beachtende Punkte
+* Zu beachtende Punkte:
 
     * Gib den Teilnehmenden genug Ziet für ein Brainstorming und Ideenaustausch
 
@@ -654,253 +654,253 @@ Kooperationsnetzwerke</td>
 
 Man kann die Übung abkürzen, indem die Diskussion in Paaren oder Kleingruppen übersprungen wird und die Teilnehmenden die Ergebisse nur im Plenum diskutieren. 
 
-##### **Beispiel 7: Warum gibt man Daten nicht frei weiter?**
+##### **Beispiel 7: Warum gibt man Daten nicht weiter?**
 
-* Format, Zeitbedarf
+* Format, Zeitbedarf:
 
     * Kleine Gruppen, ~20 Minuten
 
-* Thema
+* Thema:
 
     * [Offene Forschungsdaten und Materialien](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
-* Lernziele
+* Lernziele:
 
     * Bringt die Teilnehmenden dazu über die ethischen und praktischen Hindernisse des Datenaustausches nachzudenken und ihre diesbezüglichen Überzeugungen und Standpunkte kritisch zu hinterfragen
 
-* Übungsbeschreibung
+* Übungsbeschreibung, Anleitung:
 
     * Die Teilzunehmendnen, in Paaren oder Kleingruppen, haben fünf Minuten um eine Liste (so lang wie möglich) zu erstellen mit allen möglichen Gründen warum Forschende ihre Daten nicht freigeben möchten/sollen. Die Teilnehmenden berichten dann diese Gründe und diskutieren im Plenum, ob das triftige Gründe sind oder nicht und erarbeiten Strategien, die berechtigten Bedenken zu überwinden. Das Team mit den meisten Gründen gewinnt (optional einen Preis).
 
-* Materials and tools needed
+* Benötigte Materialien und Werkzeuge:
 
-    * Note taking equipment (pen, paper, or online document); optional: prize. 
+    * Schreibwaren (Stift, Papier, oder online Dokument,...); optional: Preis 
 
-* Level of prior knowledge needed
+* Benötigte Vorkenntnisse:
 
-    * Working knowledge of working with data
+    * Grundkenntnisse im Umgang mit Daten
 
-* Things to bear in mind
+* Zu Beachtende Punkte:
 
-    * The exercise should be fun, and participants should be encouraged to come up with fun as well as serious examples. 
+    * Die Übung sollte Spaß machen und die Teilnehmenden sollen dazu angeregt werden sowohl lustige als auch ernste Gründe anzugeben.
+    
+* Wie man die Übung für andere Zwecke anpassen kann:
 
-* How to adapt for other purposes
+    * Das gleiche Format kann sehr leicht für viele andere Aspekte von Open Science angepasst werden; zum Beispiel für Open Access, warum publiziert man nicht OA
 
-    * The same format could easily be adapted for many other elements of Open Science, e.g., Open Access (why not publish OA, etc.)
+##### **Beispiel 8: "Open Data Ausreden" Bingo**
 
-##### **Beispiel 8: "Open Data Excuse" Bingo**
+* Format, Zeitbedarf:
 
-* Format, time needed
+    * Gruppenübung, 20–30 Minuten
+    
+* Thema:
 
-    * Group exercise, 20–30 minutes
+    * [Offene Forschungsdaten und Materialien](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
-* Topic:
+* Lernziele:
 
-    * [Open Research Data and Materials](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
+    * Fähigkeit verschiedene Stereotypen, die die freie Weitergabe von Forschungsdaten verhindern, zu erkennen. Verständnis der Vorteile von offenen Forschungsdaten.
 
-* Learning objectives:
+* Übungsbeschreibung, Anleitung:
 
-    * Being able to recognize stereotypes that prevent sharing research data and understand the advantages of opening research data.
+    * Die Übung sollte am Anfang eines Workshops durchgeführt werden. Die Teilnehmenden teilen sich mindestens in zwei oder mehr Gruppen (abhängig von der Gesamtgruppengröße). Ein Trainer sorgt dafür, dass jede Gruppe entweder Pro- oder Kontra-Argumente entwickelt. In den Gruppen sollen die Teilnehmenden dann über die "Ausreden", die bereits beim Open-Data-Ausreden-Bingo (Ausdrucke) festgelegt wurden, diskutiert werden. Dies sind häufig Argumente, mit denen Forschende erklären warum sie ihre Daten nicht teilen und weitergeben können. In den letzten 10 Minuten sollten sich die Teilnehmenden mit ihren Argumenten konfrontieren. Ein Trainer hilft den Teilnehmenden, Argumente für die Weitergabe ihrer Daten zu entwickeln und die Idee des Datenaustausches besser zu verstehen. 
+  
+  * Benötigte Materialien und Hilfsmittel:
 
-* Exercise description:
+    * Genügend Ausdrucke von[ "Open Data Ausreden" Bingo](http://data.dev8d.org/devbingo/bingo.php?n=1&w=4&h=4&title=%22Open+Data+Excuse%22+Bingo&tag=%23openDataExcuses&statements=Terrorists+will+use+it%0D%0AData+Protection%0D%0ALawyers+want+a+custom+License%0D%0APoor+Quality%0D%0AThieves+will+use+it%0D%0AWe%27ll+get+spam%0D%0AIt%27s+not+very+interesting%0D%0AIt%27s+too+complicated%0D%0AThere%27s+no+API%0D%0AWhat+if+we+want+to+sell+it+later%0D%0AI+don%27t+mind,+but+someone+else+might%0D%0AIt%27s+too+big%0D%0AThere%27s+already+a+project+to...%0D%0APeople+may+misinterpret+the+data%0D%0AWe+might+want+to+use+it+in+a+paper%0D%0AWe+will+get+too+many+enquiries&rules=%3Cp%3EFor+open+data+teams;+print+out+a+copy+and+put+it+on+your+office+wall.+Cross+out+each+excuse+people+give+you.+There+are+no+prizes,+but+you+can+tweet+%22bingo!+%23openDataExcuses%22+if+you+think+it+might+make+you+feel+better*.%3C/p%3E%0D%0A%0D%0A%3Cp+style%3D%27font-size:80%25%27%3E*+it+won%27t%3C/p%3E)
 
-    * This exercise should be used at the beginning of the training event. Participants split at least in two groups or more (depends on the group size). A trainer takes care that one group will develop pro and the other contra arguments. In small groups participants discuss excuses already defined at the "Open Data Excuse" Bingo, these are common arguments used by researchers when explaining why they can't share their data. For the last 10 minutes the groups should confront their arguments. A trainer helps participants to develop arguments for open their data and to better understand the idea of sharing their data.
+* Benötigte Vorkenntnisse:
 
-* Materials and tools needed:
+    * Die Teilnehmenden sollten Erfahrung im Erzeugen und Sammeln von Forshcungsdaten haben.
 
-    * Printed sheets of[ "Open Data Excuse" Bingo](http://data.dev8d.org/devbingo/bingo.php?n=1&w=4&h=4&title=%22Open+Data+Excuse%22+Bingo&tag=%23openDataExcuses&statements=Terrorists+will+use+it%0D%0AData+Protection%0D%0ALawyers+want+a+custom+License%0D%0APoor+Quality%0D%0AThieves+will+use+it%0D%0AWe%27ll+get+spam%0D%0AIt%27s+not+very+interesting%0D%0AIt%27s+too+complicated%0D%0AThere%27s+no+API%0D%0AWhat+if+we+want+to+sell+it+later%0D%0AI+don%27t+mind,+but+someone+else+might%0D%0AIt%27s+too+big%0D%0AThere%27s+already+a+project+to...%0D%0APeople+may+misinterpret+the+data%0D%0AWe+might+want+to+use+it+in+a+paper%0D%0AWe+will+get+too+many+enquiries&rules=%3Cp%3EFor+open+data+teams;+print+out+a+copy+and+put+it+on+your+office+wall.+Cross+out+each+excuse+people+give+you.+There+are+no+prizes,+but+you+can+tweet+%22bingo!+%23openDataExcuses%22+if+you+think+it+might+make+you+feel+better*.%3C/p%3E%0D%0A%0D%0A%3Cp+style%3D%27font-size:80%25%27%3E*+it+won%27t%3C/p%3E)
+* Zu beachtende Punkte:
 
-* Level of prior knowledge needed:
+    * Gehe als Trainer umher und versuche bei der Suche von Argumenten zu helfen. Dies ist vor allem in den Gruppen, die starke Argumente für die Weitergabe von Daten entwickelt haben, hilfreich. Zusätzliche Hilfestellung könnte genau für diese Teilnehmenden erforderlich sein, damit sie später in der Konfrontation mit Mitgliedern der anderen Gruppe mit viel Durchsetzungsvermögen auftreten. 
 
-    * The participants should have experience with creating/collecting research data.
+* Wie man die Übung für andere Zwecke anpassen kann:
 
-* Things to bear in mind:
+    * Die Übung kann einfach auf andere Themen angepasst werden (Fas Material "bingo", müsste auch angepasst werden). 
 
-    * Go around and try to help with arguments if needed, especially in the group, which supposed to develop strong arguments for sharing data. Extra help might be needed for these participants to be stronger later in the confrontation with participants from the other group.
+##### **Beispiel 9: Ich und meine Daten - Datengramme**
 
-* How to adapt for other purposes:
+* Format, Zeitbedarf:
 
-    * This exercise can be adapted to other topics (material would need to be adapted also)
+    * Gruppenübung, 1–4 Stunden (wenn es als Teil eines Workshops gestaltet wird)  
 
-##### **Beispiel 9: Me and my data - Datagramms**
+* Thema:
 
-* Format, time needed
+    * [Offene Forschungsdaten](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
-    * Group exercise, 1–4 hours (if done as part of a workshop)  
+* Lernziele: 
 
-* Topic
+    * Verstehen was Daten sind und welche Art von Archiv/Repositorium geeignet ist um diese aufzubewahren
 
-    * [Open Research Data](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
+* Übungsbeschreibung, Anleitung:
 
-* Learning objectives
+    * Die Teilnehmenden sollen an die letzte wissenschaftliche Arbeit, die in Bezug zu einer Thesis (Bachelor, Master, PhD, evtl. auch Publikation) steht, denken und über die Art der erzeugten Daten reflektieren.
 
-    * Understanding what data is and what type of repository of archive is needed to store them properly
+    * Im Anschluss können sie ein Datengramm erstellen, indem sie zum Beispiel folgende Aspekte auf eine Karte schreiben
 
-* Exercise description
+        * ihr Fach oder ihre Disziplin
 
-    * Participants are asked to think about the last scientific work done in relation with a thesis (Bachelor, Master, or Ph.D.) and to reflect about the kind of data they produced.
+        * den Titel ihrer Arbeit (Thesis, Publkation)
 
-    * They will then create a datagramm, i.e., write down on a card
+        * einige Abkürzungen, stehend für
 
-        * the subject discipline
+            * das Format (wie pdf, doc, csv, or similar)
 
-        * the title of the thesis
+            * die Größe (kb, mb, gb, tb, etc.)
 
-        * a bunch of letters, indicating
+            * das Medium (wie a für analog, d für digital beziehungsweise digitalisiert und b für born digital (digital native), oder eine Kombination aus den drei)
 
-            * the format (like pdf, doc, csv, or similar)
+            * und schlussendlich den Datentyp, grob unterschieden zwischen O für observations (Beobachtung), E für Experimente, S für Simulationen, D für derivations (Schlussfolgerungen), R für Referenzen und D für digitalisierte Daten, oder eine Kombination aus den Abkürzungen
 
-            * the size (kb, mb, gb, tb, etc.)
+    * Schrittweise werden alle Karten an die Wand in Cluster entsprechend der Abkürzungen für Format, Größe, Medium und Typ gehängt 
 
-            * the medium (like a for analogue, d for digital, i.e., digitized and b for born digital, or combinations of the three)
+    * Die Gruppe diskutiert die verschiedenen Cluster und welche Anforderung ein geeignetes Open Data Archiv erfüllen müsste
+    
+* Benötigte Materialien und Hilfsmittel
 
-            * and finally the type of data, differentiating roughly between O for observations, E for experiments, S for simulations, D for derivations, R for references and D for digitized data, or combinations of them.
+    *  Karten und Flipcharts oder eine große leere Wand und Material, um die Karten zu befestigen
 
-    * In several steps, all cards are finally clustered on a wall according to the letters (format, size, medium, and type)
+* Benötigte Vorkenntnisse
 
-    * The group discusses the different clusters and reflects about the requirements for an open data repository or archive.
+    * Keine, sofern die Übung mit einer Einführung und Erklärung über Datentypen beginnt. Grundkenntnisse über Forschungsdaten, Repositorien und Archiven könnten nützlich sein.
+    
+* Zu beachtende Punkte: 
 
-* Materials and tools needed
+    * Nähert euch dem Ergebnis schrittweise
 
-    *  Cards and flipcharts, or better a wall and material to fix the cards on the wall
+* Wie man die Übung für andere Zwecke anpassen kann:
 
-* Level of prior knowledge needed
+    *  Wurde noch nicht für andere Zwecke angewendet.
 
-    * None as long as the exercise is started with some explanations on how to describe and differentiate data. Basic knowledge of research data, repositories, and archives may be helpful.
+##### **Beispiel 10: Finde deine Datenplattform**
 
-* Things to bear in mind: 
-
-    * Make it a step by step approach
-
-* How to adapt for other purposes
-
-    *  not yet applied
-
-##### **Example 10: Find your data publisher**
-
-* Format, time needed: 
+* Format, Zeitbedarf: 
 
     * Individual / pairs, 10–15 minutes
 
-* Topic:
+* Thema:
 
     * [Open Research Data](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
-* Learning objectives:
+* Lernziele:
 
     * Becoming aware of appropriate subject-specific data repositories and their characteristics and standards
 
-* Exercise description:
+* Übungsbeschreibung, Anleitung:
 
     * The participants have to find a data repository for their research data. They go to re3data.org and search/browse by subject and/or content type. Let them limit their search to data repositories with DOI assignment. Give them time to have a look at the repository description and let them write down relevant repositories. Afterwards their success and experiences are discussed.
 
-* Materials and tools needed:
+* Benötigte Materialien und Hilfsmittel:
 
     * Computer with internet access for every participant (can also be in pairs if necessary)
 
-* Level of prior knowledge needed:
+* Benötigte Vorkenntnisse:
 
     * The participants should know which kind of research data they produce
 
     * Not applicable for bachelor students
 
-* Things to bear in mind:
+* Zu beachtende Punkte:
 
     * Some people might not find an appropriate repository, so prepare a list of generic and institutional repositories that can be used and show/hand it out afterwards
 
-* How to adapt for other purposes:
+* Wie man die Übung für andere Zwecke anpassen kann:
 
     * You can adapt this exercise for Open Access by using the Directory of Open Access Journals [DOAJ[https://doaj.org](https://doaj.org)) website
 
-##### **Example 11: What do you need for a data publication?**
+##### **Beispiel 11: What do you need for a data publication?**
 
-* Format, time needed: 
+* Format, Zeitbedarf:  
 
     * Group exercise, 5–10 minutes (depending on group size)
 
-* Topic:
+* Thema:
 
     * [Open Research Data](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
-* Learning objectives:
+* Lernziele:
 
     * Remembering the necessary steps for data publication
 
-* Exercise description:
+* Übungsbeschreibung, Anleitung:
 
     * This exercise should be used at the end of the training. Let the participants play "I'm packing my suitcase" where they have to name necessary elements for a data publication (e.g., Research data (files), metadata, keywords, documentation, license, ORCID, repository, good title, references/sources, data citation, time, and courage!) 
 
-* Materials and tools needed:
+* Benötigte Materialien und Hilfsmittel:
 
     * No material needed
 
-* Level of prior knowledge needed:
+* Benötigte Vorkenntnisse:
 
     * The participants know basic elements of data publishing through the course
 
-* Things to bear in mind:
+* Zu beachtende Punkte:
 
     * If participants forget an element, try to help or give pointers
 
     * Name as last element "courage"
 
-* How to adapt for other purposes:
+* Wie man die Übung für andere Zwecke anpassen kann:
 
     * Can also be adapted for open access publishing process
 
-##### **Example 12: Creating metadata**
+##### **Beispiel 12: Creating metadata**
 
-* Format, time needed: 
+* Format, Zeitbedarf: 
 
     * Individual / pairs, 5 minutes
 
-* Topic:
+* Thema:
 
     * [Open Research Data](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
-* Learning objectives:
+* Lernziele:
 
     * Being able to create metadata for research data
 
-* Exercise description:
+* Übungsbeschreibung, Anleitung:
 
     * Let the participants select a file they are currently working on. Let them answer the following questions on a piece of paper: Who created the content? What is the content? When was the content created? How was the content created? Why was the content created? Then discuss with them their results. Was it easy or difficult? Can they repeat this task for all the files in their research process?
 
-* Materials and tools needed:
+* Benötigte Materialien und Hilfsmittel:
 
     * A piece of paper (or prepared form) and a pen
 
-* Level of prior knowledge needed:
+* Benötigte Vorkenntnisse:
 
     * No prior knowledge needed
 
-* Things to bear in mind:
+* Zu beachtende Punkte:
 
     * To make the exercise faster prepare a form and print it out or make it available online.
 
     * For bigger projects with a lot of files offer a data dictionary template
 
-* How to adapt for other purposes:
+* Wie man die Übung für andere Zwecke anpassen kann:
 
     * Can also be adapted as a documentation exercise
 
-##### **Example 13: Get started with sharing software openly**
+##### **Beispiel 13: Get started with sharing software openly**
 
-* Format, time needed 
+* Format, Zeitbedarf:  
 
     * Individual / pairs, 20–30 minutes
 
-* Topic
+* Thema:
 
     * [Open Research Software and Open Source](/02OpenScienceBasics/03OpenResearchSoftwareAndOpenSource.md)
 
-* Learning objectives
+* Lernziele:
 
     * Learn how to use common tools and services for sharing research codes openly.
 
     * Be able to choose the appropriate license for their software, and understand the difference between permissive and non-permissive licenses
 
-* Exercise description
+* Übungsbeschreibung, Anleitung:
 
     * This exercise is meant for any researchers that will use software/code for their research, whether they perform purely computational or experimental work (the latter use software for analysis, etc.). 
 
@@ -916,41 +916,41 @@ Man kann die Übung abkürzen, indem die Diskussion in Paaren oder Kleingruppen 
 
     * Congratulations, your software is now citeable! You can add a section to the README file with the DOI and suggested citation, or even add the DOI badge that Zenodo provides.
 
-* Materials and tools needed
+* Benötigte Materialien und Hilfsmittel:
 
     * Individuals need to have a computer with internet connection.
 
     * Participants should have some code, script, or program ready—even if it is "messy"—that they will publicly share.
 
-* Level of prior knowledge needed
+* Benötigte Vorkenntnisse:
 
     * None
 
-* Things to bear in mind
+* Zu beachtende Punkte:
 
     * None
 
-* How to adapt for other purposes:
+* Wie man die Übung für andere Zwecke anpassen kann:
 
     * Not applicable
 
-##### **Example 14: Establishing a Reproducible Data Analysis Workflow**
+##### **Beispiel 14: Establishing a Reproducible Data Analysis Workflow**
 
-* Format, time needed
+* Format, Zeitbedarf: 
 
     * Individually and as a group, 4–8 hours (example [here](http://reproducible-analysis-workshop.readthedocs.io))
 
-* Topic
+* Thema:
 
     * [Reproducible Research and Data Analysis](/02OpenScienceBasics/04ReproducibleResearchAndDataAnalysis.md)
 
-* Learning objectives 
+* Lernziele: 
 
     * Use a (small) computational task relevant to your discipline/background, and establish it as an open and reproducible workflow.
 
     * Understand the key concepts, tools and services that are useful in the context of reproducibility.
 
-* Exercise description
+* Übungsbeschreibung, Anleitung:
 
     * Each participant selects a dataset and corresponding data analysis process that is relevant to their field. Both dataset and the analysis process should be short enough that it concludes within a few minutes. Moreover, for the purposes of this exercise, the programming language should be Python or R, but other languages can be accommodated with slight changes in the underlying tools.
 
@@ -958,55 +958,55 @@ Man kann die Übung abkürzen, indem die Diskussion in Paaren oder Kleingruppen 
 
     * Apply the same process using the Jupyter / Git / MyBinder approach; write the process as a Jupyter notebook, upload dataset and notebook to a repository on GitHub, and then connect the repository to mybinder. After than, ask again the same person to re-run this. Identify the change in time and accessibility.
 
-* Materials and tools needed
+* Benötigte Materialien und Hilfsmittel:
 
     * Jupyter and Git are necessary (including an account on GitHub). Depending on the language, additional Jupyter kernels might need to be installed. Finally, the trainer can decide on whether to provide a common example for all participants to use, or ask the participants to bring their own. The difference lies to the amount of time required for preparation, as well as on the uniformity of the participants’ background.
 
-* Level of prior knowledge needed
+* Benötigte Vorkenntnisse:
 
     * The workshop can be performed to different levels of expected prior knowledge, adapting for time. For example, a short basic introduction to Git can be included, but in all cases, the participants should be aware of the computational requirements of their own analysis.
 
-* Things to bear in mind
+* Zu beachtende Punkte:
 
     * The overall concept is straightforward, but has an initial learning curve of the individual components. Therefore you may consider spending some extra time in the beginning discussing each tool, before connecting them all together.
 
     * You should consider giving the participants a detailed explanation of the installation process (e.g., for Jupyter and Git), before the workshop, in order to minimize potential technical issues.
 
-* How to adapt for other purposes
+* Wie man die Übung für andere Zwecke anpassen kann:
 
     * The workshop can be extended to introduce additional concepts of Open Science, such as Persistent Identifiers for software (such as assigning a DOI from Zenodo to the Git repo), as well as integrating all of the aspects under a common platform (such as the OSF).
 
-##### **Example 15: Choose the right version for the repository**
+##### **Beispiel 15: Choose the right version for the repository**
 
-* Format, time needed 
+* Format, Zeitbedarf: 
 
     * Individual / pairs, 15–20 minutes
 
-* Topic
+* Thema:
 
     * [Open Access to Published Research](/02OpenScienceBasics/05OpenAccessToPublishedResearchResults.md) Publications
 
-* Learning objectives
+* Lernziele:
 
     * Being able to decide which is the version allowed to be deposit in a repository and state its copyright regime
 
-* Exercise description
+* Übungsbeschreibung, Anleitung:
 
     * This exercise could be addressed to repository managers. Choose five different publications and ask participants to select which is the version that could be allowed in a repository and which would be the copyright notice they would include: who is the copyright holder and which copyright regime would hold: all rights reserved, a license, public domain. Discuss with them their results and show them the key elements that define the solutions.
 
-* Materials and tools needed
+* Benötigte Materialien und Hilfsmittel:
 
     * The exercise can be performed with a piece of paper (or prepared form) and a pen
 
     * Individuals/pairs need to have an internet connection to access the papers and check policies. You may provide physical copies of the articles, too.
 
-* Level of prior knowledge needed
+* Benötigte Vorkenntnisse:
 
     * Basic copyright notions
 
     * Knowledge on the different versions of a research paper
 
-* Things to bear in mind
+* Zu beachtende Punkte:
 
     * The exercise can be translated to an online version if you prepare a set of polls.
 
@@ -1014,101 +1014,101 @@ Man kann die Übung abkürzen, indem die Diskussion in Paaren oder Kleingruppen 
 
     * The number of cases will determine the time of the exercise.
 
-* How to adapt for other purposes:
+* Wie man die Übung für andere Zwecke anpassen kann:
 
     * Can be adapted to training sessions with researchers using their own papers.
 
 
 
-##### **Example 16: Open file formats**
+##### **Beispiel 16: Open file formats**
 
-* Format, time needed: 
+* Format, Zeitbedarf: 
 
     * Group exercise, 10–15 minutes
 
-* Topic:
+* Thema:
 
     * [Open Licensing and File Formats](/02OpenScienceBasics/06OpenLicensingAndFileFormats.md)
 
-* Learning objectives:
+* Lernziele:
 
     * Becoming aware of file formats used daily and their openness
 
-* Exercise description:
+* Übungsbeschreibung, Anleitung:
 
     * Let the participants write down on post-its all the file formats they use in their daily work. Then get the post-its and stick them to the whiteboard or flipchart. Try to cluster them as best as you can into categories or groups (text, tabular, statistical, video, image, etc.). Then discuss the results with the audience. Talk about the openness of these file formats and possible alternatives.
 
-* Materials and tools needed:
+* Benötigte Materialien und Hilfsmittel:
 
     * A few stacks of post-its, pen and a whiteboard or flipchart
 
-* Level of prior knowledge needed:
+* Benötigte Vorkenntnisse:
 
     * No prior knowledge needed
 
-* Things to bear in mind:
+* Zu beachtende Punkte:
 
     * Prepare for "exotic" file formats that are subject-specific or machine-dependent or let the participants describe them.
 
-* How to adapt for other purposes:
+* Wie man die Übung für andere Zwecke anpassen kann:
 
     * You can also use web tools like [PINGO](http://trypingo.com) for the collection of file formats or let them write down their file formats on a piece of paper and collect those, if you don’t want to use post-its
 
-##### **Example 17: Creative Commons License matching**
+##### **Beispiel 17: Creative Commons License matching**
 
-* Format, time needed: 
+* Format, Zeitbedarf: 
 
     * Group exercise, 5–10 minutes
 
-* Topic:
+* Thema:
 
     * [Open Licensing and File Formats](/02OpenScienceBasics/06OpenLicensingAndFileFormats.md)
 
-* Learning objectives:
+* Lernziele:
 
     * Being able to differentiate between different Creative Commons licenses and to be able to combine them for works. 
 
-* Exercise description:
+* Übungsbeschreibung, Anleitung::
 
     * The participants have to combine two licenses. Let the group guess which Creative Commons license is created by the combination. Repeat the exercise with other combinations. Integrate a combination that is not possible (for example, CC BY-SA and CC BY-NC) and point out pitfalls. Discuss the results with the participants.
 
-* Materials and tools needed:
+* Benötigte Materialien und Hilfsmittel:
 
     * Computer with projector, whiteboard, flipchart, or piece of paper for all attendees
 
-* Level of prior knowledge needed:
+* Benötigte Vorkenntnisse:
 
     * The participants should know all Creative Commons licenses and/or have a paper to look at
 
-* Things to bear in mind:
+* Zu beachtende Punkte:
 
     * Wait more than three seconds before taking the answer. This enables participants to think it through and you are able to integrate even weak participants.
 
-* How to adapt for other purposes:
+* Wie man die Übung für andere Zwecke anpassen kann:
 
     * First create pairs and let them solve the combinations, then discuss the solutions in the group
 
     * Use other licenses
 
-##### **Example 18: OER Remix**
+##### **Beispiel 18: OER Remix**
 
-* Format, time needed: 
+* Format, Zeitbedarf: 
 
     * Group exercise, 10–15 minutes
 
-* Topic:
+* Thema:
 
     * [Open Licensing and File Formats](/02OpenScienceBasics/06OpenLicensingAndFileFormats.md)
 
     * [Open Educational Resources](/02OpenScienceBasics/11OpenEducationalResources.md)
 
-* Learning objectives:
+* Lernziele:
 
     * Being able to distinguish the different elements of the Creative Commons licenses
 
     * Being able to build content remixing previous works with multiple licenses including public domain and all rights reserved works and determine which will be the resulting license
 
-* Exercise description:
+* Übungsbeschreibung, Anleitung:
 
     * There is an [online version](http://www.opencontent.org/game/) and a [printed version](http://www.opencontent.org/game/print/)
 
@@ -1116,75 +1116,75 @@ Man kann die Übung abkürzen, indem die Diskussion in Paaren oder Kleingruppen 
 
     * One person of the group takes 12 cards and the rest of the group has to combine them building a material with the four type of content: text, image, music and video. Once they choose a right combination they have to decide which is a possible license for this new work.
 
-* Materials and tools needed:
+* Benötigte Materialien und Hilfsmittel:
 
     * For the online game: computer with beamer
 
     * For the printed game: the set of cards is available at [opencontent.org](http://www.opencontent.org/game/print/) or you can create a set of cards yourself
 
-* Level of prior knowledge needed:
+* Benötigte Vorkenntnisse:
 
     * The participants should know the elements of all Creative Commons licenses and have a basic notion of copyright issues including the notion of copyleft
 
-* Things to bear in mind:
+* Zu beachtende Punkte:
 
     * If you use the online version you might do the exercise with all your audience allowing multiple possible answers.
 
-* How to adapt for other purposes:
+* Wie man die Übung für andere Zwecke anpassen kann:
 
     * You can adapt it to research elements, for instance to software licensing
 
     * You can use other licenses, include new kind of contents or define which contents should have the final work
 
-##### **Example 19: Open peer review - participants openly review each others’ texts**
+##### **Beispiel 19: Open peer review - participants openly review each others’ texts**
 
-* Format, time needed
+* Format, Zeitbedarf: 
 
     * Small groups, 90 mins
 
-* Topic
+* Thema:
 
     * [Open Peer Review, Metrics and Evaluation](/02OpenScienceBasics/08OpenPeerReviewMetricsAndEvaluation.md)
 
-* Learning objectives
+* Lernziele:
 
     * Practise in writing constructive peer reviews
 
     * Critical reflection on the advantages and disadvantages of open peer review
 
-* Exercise description
+* Übungsbeschreibung, Anleitung:
 
     * Participants work in groups of three. Each participants writes a short text (~300 words) giving their thoughts on open peer review as discussed in the foregoing workshop. They then pass the text to the person on their left, who writes a brief peer review of the work. The text and the review are then passed to the next person on the left, so each now has a text and a review which they did not write. This person then gives feedback on the review—was it constructive, critical, what could have been better, etc. The group then reads all the texts and reflects on how open identities, open reports, etc. affected how they wrote their reviews, and reflects on the critical feedback from the others.
 
-* Materials and tools needed
+* Benötigte Materialien und Hilfsmittel:
 
     * Pen and paper
 
-* Level of prior knowledge needed
+* Benötigte Vorkenntnisse:
 
     * None, although the texts will require the knowledge gained in the foregoing workshop.
 
-* Things to bear in mind
+* Zu beachtende Punkte:
 
     * This exercise requires participants to make criticisms of each other’s work—bear in mind that some people might be uncomfortable doing so, or that some may have difficulty accepting such critique. Where these issues occur, encourage participants to discuss them in the final discussion round.
 
-* How to adapt for other purposes
+* Wie man die Übung für andere Zwecke anpassen kann:
 
     * Where this example is being used in a training workshop with a wider focus than just open peer review, it could be used to consolidate learning about other Open Science themes by asking participants to first write a text about those themes instead.
 
     * Instead of pen and paper, this exercise could also be done using a collaborative writing tool, such as Google Docs, Authorea, or Overleaf/ShareLaTeX. 
 
-##### **Example 20: Open peer review - your 2 cents**
+##### **Beispiel 20: Open peer review - your 2 cents**
 
-* Format, time needed 
+* Format, Zeitbedarf: 
 
     * Plenary, ~1.5 hour with discussion
 
-* Topic
+* Thema:
 
     * [Open Peer Review, Metrics and Evaluation](/02OpenScienceBasics/08OpenPeerReviewMetricsAndEvaluation.md)
 
-* Learning objectives
+* Lernziele:
 
     * Realize there are many aspects to open peer review and have knowledge of those different aspects of open peer review
 
@@ -1192,7 +1192,7 @@ Man kann die Übung abkürzen, indem die Diskussion in Paaren oder Kleingruppen 
 
     * Have insights in the benefits and possible drawbacks of different aspects of open peer review, from the perspective of the reader, author and reviewer
 
-* Exercise description
+* Übungsbeschreibung, Anleitung:
 
     * Introducing different aspects of peer review, including some examples of journals/platforms where they are put in practice
 
@@ -1208,7 +1208,7 @@ Man kann die Übung abkürzen, indem die Diskussion in Paaren oder Kleingruppen 
 
 ![image alt text](/Images/image_13.png)
 
-* Materials and tools needed
+* Benötigte Materialien und Hilfsmittel:
 
     * Large printout of [dimensions of peer review](https://doi.org/10.6084/m9.figshare.4210293): one for each participant and a  communal one ([presentation with animated slides](https://doi.org/10.6084/m9.figshare.4210254) also available)
 
@@ -1216,11 +1216,11 @@ Man kann die Übung abkürzen, indem die Diskussion in Paaren oder Kleingruppen 
 
 ![image alt text](/Images/image_14.png)
 
-* Level of prior knowledge needed
+* Benötigte Vorkenntnisse:
 
     * None, some familiarity with the traditional process of peer review is helpful
 
-* Things to bear in mind
+* Zu beachtende Punkte:
 
     * For people not familiar with developments in open peer review, some aspects may require more explanation—plan enough time for that
 
@@ -1228,27 +1228,27 @@ Man kann die Übung abkürzen, indem die Diskussion in Paaren oder Kleingruppen 
 
     * The number of coins per person depends on the number of participants (e.g., three for smaller groups, two for larger groups)
 
-* How to adapt for other purposes
+* Wie man die Übung für andere Zwecke anpassen kann:
 
     * The concept of voting with coins ("your two cents") can be applied to other topics, as can the assignment of roles in small group discussions
 
-##### **Example 21: Taking a stance** 
+##### **Beispiel 21: Taking a stance** 
 
-* Format, time needed
+* Format, Zeitbedarf: 
 
     * Plenary, 15 minutes 
 
-* Topic
+* Thema:
+  
+  * [Open Science Policies](/02OpenScienceBasics/09OpenSciencePolicies.md)
 
-    * [Open Science Policies](/02OpenScienceBasics/09OpenSciencePolicies.md)
-
-* Learning objectives 
+* Lernziele:
 
     * Get participants to take a stance on Open Science policies or principles
 
     * Show similarity or diversity of opinions across participants 
 
-* Exercise description
+* Übungsbeschreibung, Anleitung:
 
     * Ask participants to express their opinion on two questions about Open Science policies or principles.
 
@@ -1266,7 +1266,7 @@ Man kann die Übung abkürzen, indem die Diskussion in Paaren oder Kleingruppen 
 
 ![image alt text](/Images/image_15.png)
 
-* Materials and tools needed
+* Benötigte Materialien und Hilfsmittel:
 
     * Access to an online tool like [Mentimeter](https://www.mentimeter.com/); a paid account allows export of the results but is not required for this exercise
 
@@ -1274,15 +1274,15 @@ Man kann die Übung abkürzen, indem die Diskussion in Paaren oder Kleingruppen 
 
     * Offline alternative: large paper with axes printed or drawn, sticky dots
 
-* Level of prior knowledge needed
+* Benötigte Vorkenntnisse:
 
     * None; some background knowledge on the topic is useful to get informed opinions rather than gut feelings (although the latter may be useful to collect too)
 
-* Things to bear in mind
+* Zu beachtende Punkte:
 
     * If done on paper, it might make sense to have people mark down their answer  individually first, before placing their dot on the map. This prevents peer pressure / bias.
 
-* How to adapt for other purposes
+* Wie man die Übung für andere Zwecke anpassen kann:
 
     * This exercise can be adapted to many different questions and topics
 
@@ -1292,47 +1292,47 @@ Man kann die Übung abkürzen, indem die Diskussion in Paaren oder Kleingruppen 
 
     * For sticky dots, choose a combination that is colour-blind friendly
 
-##### **Example 22: Plain language explanations** - in progress
+##### **Beispiel 22: Plain language explanations** - in progress
 
-* Format, time needed 
+* Format, Zeitbedarf:  
 
     * Small groups, 2–3 hours
 
-* Topic 
+* Thema:
 
     * [Citizen Science](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/10CitizenScience.md)
 
     * [Collaborative Platforms](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/07CollaborativePlatforms.md)
 
-* Learning objectives 
+* Lernziele:
 
-* Exercise description
+* Übungsbeschreibung, Anleitung:
 
-* Materials and tools needed
+* Benötigte Materialien und Hilfsmittel:
 
-* Level of prior knowledge needed
+* Benötigte Vorkenntnisse:
 
-* Things to bear in mind
+* Zu beachtende Punkte:
 
-* How to adapt for other purposes
+* Wie man die Übung für andere Zwecke anpassen kann:
 
-##### **Example 23: Devil’s advocate - convincing the skeptics**
+##### **Beispiel 23: Devil’s advocate - convincing the skeptics**
 
-* Format, time needed 
+* Format, Zeitbedarf:  
 
     * Small groups, 30 minutes
 
-* Topic
+* Thema:
 
     * [Open Advocacy](/02OpenScienceBasics/12OpenAdvocacy.md)
 
-* Learning objectives
+* Lernziele:
 
     * Formulate arguments against common objections to open science practices
 
     * Practice discussion with people questioning the value of open science
 
-* Exercise description
+* Übungsbeschreibung, Anleitung:
 
     * In small groups of three or four, have one or two person(s) assume the role of open science skeptic and the others the role of open science advocate. 
 
@@ -1342,36 +1342,36 @@ Man kann die Übung abkürzen, indem die Diskussion in Paaren oder Kleingruppen 
 
     * After two rounds, gather as a group as share experiences. Which arguments were the hardest to refute? Which arguments worked best to convince the skeptics? Do participants feel these be arguments would be useful in real-life situations as well?
 
-* Materials and tools needed
+* Benötigte Materialien und Hilfsmittel:
 
     * none; flexible room setup is useful to allow groups to spread across the room
 
-* Level of prior knowledge needed
+* Benötigte Vorkenntnisse:
 
     * Familiarity with open science concepts
 
-* Things to bear in mind
+* Zu beachtende Punkte:
 
     * Encourage the open science skeptics to get into their role as much as possible. Often, people really enjoy taking on this role!
 
     * Be sure to switch roles to give everyone the chance to experience this exercise from both perspectives. 
 
-* How to adapt for other purposes
+* Wie man die Übung für andere Zwecke anpassen kann:
 
     * This exercise could be focused on specific aspects of open science
 
-##### **Example 24: Set up OSF project & link to other platforms - in progress**
-* Format, time needed 
+##### **Beispiel 24: Set up OSF project & link to other platforms - in progress**
+* Format, Zeitbedarf: 
 
     * Individually or in pairs
 
-* Topic 
+* Thema: 
 
     * [Open Research Data and Materials](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
-* Learning objectives 
+* Lernziele: 
 
-* Exercise description
+* Übungsbeschreibung, Anleitung:
 
    * Create an OSF collaborative environment from data to publication.
    
@@ -1381,65 +1381,66 @@ Man kann die Übung abkürzen, indem die Diskussion in Paaren oder Kleingruppen 
 
       * Obtain a DOI and ARK identifier for your project.
 
-* Materials and tools needed
+* Benötigte Materialien und Hilfsmittel:
 
-* Level of prior knowledge needed
+* Benötigte Vorkenntnisse:
 
-* Things to bear in mind
+* Zu beachtende Punkte:
 
-* How to adapt for other purposes
+* Wie man die Übung für andere Zwecke anpassen kann:
 
 
-##### **Example 25: The publishing trap - in progress**
-* Format, time needed 
+##### **Beispiel 25: The publishing trap - in progress**
+* Format, Zeitbedarf: 
 
     * Small group exercise, 2 h
 
-* Topic 
+* Thema: 
 
     * [Open Access to Published Research Results](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/05OpenAccessToPublishedResearchResults.md)
 
-* Learning objectives 
+* Lernziele:
+
    * "The game lets you explore the impact of scholarly communications choices and discuss the role of open access in research by following the lives of four researchers, from doctoral research to their academic legacies." [blogs.kent.ac.uk](https://blogs.kent.ac.uk/osc/2017/10/09/publishing-trap/)
 
-* Exercise description
+* Übungsbeschreibung, Anleitung:
 
    * "It is played by four teams of up to four people – sat around a game board and using a playbook to guide the decisions the teams must make. The workshop leader acts as a host and presents the scenarios to the teams during each round. Each round involves making three decisions about publishing choices. After hearing the scenario, each team chooses from the pre-determined options. At the end of each round, the teams discuss the decisions they have reached and are asked to justify their choices." [copyrightliteracy.org](https://copyrightliteracy.org/resources/the-publishing-trap/)
    
-* Materials and tools needed
+* Benötigte Materialien und Hilfsmittel:
 
    * The board, cards, booklets, points and other object has to be downloaded, printed and cut out. They plan to also have a professionally produced game available to purchase. Materials are available here: [copyrightliteracy.org](https://copyrightliteracy.org/resources/the-publishing-trap/the-publishing-trap-resources/)
 
-* Level of prior knowledge needed
+* Benötigte Vorkenntnisse:
    
    * "The Publishing Trap is aimed at early career researchers and academics, as well as anyone who has a vested interested in understanding how access to information works and how the whole scholarly communication system in higher education operates." [copyrightliteracy.org](https://copyrightliteracy.org/resources/the-publishing-trap/)
 
-* Things to bear in mind
+* Zu beachtende Punkte:
    
    * Maybe stimulate discussions during the game play
    
-* How to adapt for other purposes
+* Wie man die Übung für andere Zwecke anpassen kann:
 
 * Licensing conditions
    
    * The beta version of the game is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 Licence.
    
    
-##### **Example 26: - in progress**
+##### **Beispiel 26: - in progress**
 
-* Format, time needed 
+* Format, Zeitbedarf:  
 
     * Small groups, 4 days (5 hours/day)
 
-* Topic 
+* Thema:
 
     * [Open Research Data and Materials](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
-* Learning objectives 
+* Lernziele:
    
    * The participants understand the basics of open data and reproducible research, understand the stages to setup a research data management plan, and can build their own data repository. 
 
-* Exercise description
+* Übungsbeschreibung, Anleitung:
 
 1. the knowledge about repository and licensing
 2. data assessment: types, sum, sensitivity
@@ -1450,20 +1451,20 @@ Man kann die Übung abkürzen, indem die Diskussion in Paaren oder Kleingruppen 
 7. using R, R Studio, and R Markdown to create a reproducible research
 8. exercise in creating a citizen science project 
 
-* Materials and tools needed
+* Benötigte Materialien und Hilfsmittel:
 
    * Registration of: ORCID, OSF, GitHub, and DMPTool
    * Downloading and installing: Git, R, and R Studio
 
-* Level of prior knowledge needed
+* Benötigte Vorkenntnisse:
 
    * A basic knowledge in R, R Studio, and Git would be a plus.
    
-* Things to bear in mind
+* Zu beachtende Punkte:
 
    * He/she may have to put more time in explaining the concept of open data and why people should do it. Most debates occur in this preliminary stage.
 
-* How to adapt for other purposes
+* Wie man die Übung für andere Zwecke anpassen kann:
 
    * The exercise is made especially for geo/spatial sciences, but most part of it can used for any science, including citizen science project.
    
@@ -1472,21 +1473,21 @@ Man kann die Übung abkürzen, indem die Diskussion in Paaren oder Kleingruppen 
    * CC BY - [Dasapta Erwin Irawan](dasaptaerwin@gmail.com), INArxiv, Institut Teknologi Bandung; [Willem Vervoort](willem.vervoort@sydney.edu.au), The University of Sydney; [Gene Melzack](gene.melzack@sydney.edu.au), The University of Sydney
 
 
-##### **Example 27: Train-the-trainer card game for Open Science training**
+##### **Beispiel 27: Train-the-trainer card game for Open Science training**
 
-* Format, time needed 
+* Format, Zeitbedarf: 
 
     * Small groups, 2 hours
 
-* Topic 
+* Thema: 
 
     * [Open Advocacy](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/12OpenAdvocacy.md)
 
-* Learning objectives 
+* Lernziele:
 
    * Trainers can use this game to facilitate ‘train-the-trainer’ workshops. Participants design a usable framework for a training – which will they deliver themselves at a later stage -  on (a) topic(s) of their choice. The card game offers the participants the option to preselect audience type, audience size, training type and audience knowledge level. In addition, two ‘unforeseen’ circumstances can be added: audience mood, and ‘trouble’ (uh-oh!).  Apart from going home with a usable design for a training, the audience of this workshop will also benefit from the input and experience of the other participants.  
 
-* Exercise description
+* Übungsbeschreibung, Anleitung:
 
    * INSTRUCTIONS: 
       * Have each group pick a card (blind) determining: audience type, audience size, audience knowledge level and training type. It is possible that the different cards turn out a training situation that is impossible or that is not in line with to the interests of the group. It can be useful to allow some flexibility and allow people to change cards or switch cards with another group. In most cases, there is an empty card or an ‘other’ card available as well, allowing people to modify the exercise according to their own needs. 
@@ -1495,21 +1496,21 @@ Man kann die Übung abkürzen, indem die Diskussion in Paaren oder Kleingruppen 
       * Have each group present their training (take note: they don’t have to give the actual training, they only have to describe what they will do!) . Ask the other groups to give feedback afterwards: Is the proposed training suitable for the conditions laid out by the cards? What would they do differently? Do they have any experiences that they can share?
       * Extra challenge: How would each group deal with unexpected/unpredictable circumstances during the training? Right before their presentation, each group picks (blind) an 'audience mood' card and a 'trouble' card and gives them to the moderator, who will either during the presentation or afterwards discuss these cards with the entire group – allowing the audience to learn from the experience of their colleagues.
 
-* Materials and tools needed
+* Benötigte Materialien und Hilfsmittel:
 
    * https://www.fosteropenscience.eu/node/2570
    
    * You can download the files in pdf and png format via this public dropbox link: https://www.dropbox.com/sh/k314ebvqpb6mqq8/AAABEcJqYF_2PYJxqmYf3mmna?dl=0&fbclid=IwAR0DBmnArU8raKlaoJa7RKPEGRNEv2y74PQRR2Ft_y4Oy7DLfdawF_n5LbQ
 
-* Level of prior knowledge needed
+* Benötigte Vorkenntnisse:
 
    * Participants are expected to be knowledgeable about the topic(s) they will create the training about
 
-* Things to bear in mind
+* Zu beachtende Punkte:
 
    * Timekeeping is essential; limit the time people will work on persona's and training design. Clarify that the presentation should be a description of all the elements of the training they have designed, not actually giving the training. When evaluating with the group, make sure everybody gives input.
 
-* How to adapt for other purposes
+* Wie man die Übung für andere Zwecke anpassen kann:
 
    * In principle, all parameters can be adapted and changed to suit a specific training, by creating new cards, new categories, or by removing existing ones. 
    
