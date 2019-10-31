@@ -3,7 +3,7 @@
 
 In diesem Kapitel findest Du viele Materialien, die dir helfen sollen, deine Auszubildenden aktiv an der kritischen Auseinandersetzung mit Open Science-Themen zu beteiligen.
 
-Wir empfehlen dir, dich den folgenden Materialien mit dem Motto "Adopt, adapt, develop" (Annehmen, Anpassen, Entwickeln) im Hinterkopf anzunähern - das heißt, dass es am effektivsten ist, das Bestehende nach Möglichkeit wiederzuverwenden. Bevor Du mit der Entwicklung von Trainingsressourcen von Grund auf neu beginnst, solltest Du also herausfinden, ob es bereits vorhandene Ressourcen gibt, die Du nutzen kannst. Wir geben hier einige Beispiele, Tipps und wie sie für deine individuellen Zwecke angepasst werden können. Wir stellen dir auch Links und Strategien zur Verfügung, die dich unterstützen, weiteres Material zu finden. In einigen Fällen können vorhandene Ressourcen so verwendet werden, wie sie sind, so dass Du sie einfach **annehmen** kannst. Ein Beispiel dafür kann ein offen zugängliches Video-Tutorial über offene Dateiformate sein, auf das Du dein Publikum hinweisen könntest. In anderen Fällen musst Du eventuell vorhandene Ressourcen etwas **anpassen**, um sie an für deine Zwecke zu verwenden. So kann es beispielsweise erforderlich sein, einige institutions- oder länderspezifische Verweise auf eine bestehende Übersicht von Open-Access-Anforderungen von Fördermittelgebern hinzuzufügen oder zu ersetzen. Nur als letztes Mittel solltest Du **deine eigenen Materialien grundlegend neu entwickeln**. Wenn Du eigene Trainingsmaterialien entwickeln möchtest, solltest Du dies unbedingt unter Open Educational Resources (OER) tun, damit andere Trainer deine Materialien wiederverwenden und anpassen können.
+Wir empfehlen dir, dich den folgenden Materialien mit dem Motto "Adopt, adapt, develop" (Annehmen, Anpassen, Entwickeln) anzunähern - das heißt, dass es am effektivsten ist, das Bestehende nach Möglichkeit wiederzuverwenden. Bevor Du mit der Entwicklung von Trainingsressourcen von Grund auf neu beginnst, solltest Du also herausfinden, ob es bereits vorhandene Ressourcen gibt, die Du nutzen kannst. Wir geben hier einige Beispiele, Tipps und wie sie für deine individuellen Zwecke angepasst werden können. Wir stellen dir auch Links und Strategien zur Verfügung, die dich unterstützen, weiteres Material zu finden. In einigen Fällen können vorhandene Ressourcen so verwendet werden, wie sie sind, so dass Du sie einfach **annehmen** kannst. Ein Beispiel dafür kann ein offen zugängliches Video-Tutorial über offene Dateiformate sein, auf das Du dein Publikum hinweisen könntest. In anderen Fällen musst Du eventuell vorhandene Ressourcen etwas **anpassen**, um sie an für deine Zwecke zu verwenden. So kann es beispielsweise erforderlich sein, einige institutions- oder länderspezifische Verweise auf eine bestehende Übersicht von Open-Access-Anforderungen von Fördermittelgebern hinzuzufügen oder zu ersetzen. Nur als letztes Mittel solltest Du **deine eigenen Materialien grundlegend neu entwickeln**. Wenn Du eigene Trainingsmaterialien entwickeln möchtest, solltest Du dies unbedingt unter Open Educational Resources (OER) tun, damit andere Trainer deine Materialien wiederverwenden und anpassen können.
 
 ### Beispiele von verschiedenen Trainingskonzepten
 
@@ -544,29 +544,29 @@ Kooperationsnetzwerke</td>
 
     * Vorschläge für Diskussionsthemen
 
-        5. "Durch Open Science macht Forschung mehr Spaß"
+        1. "Durch Open Science macht Forschung mehr Spaß"
 
-        6. "Scooping is ein reales und bestehendes Problem, das Open Science zu einer schwierigen Entscheidung macht"
+        2. "Scooping is ein reales und bestehendes Problem, das Open Science zu einer schwierigen Entscheidung macht"
 
-        7. "APCs (article processing charges, Artikelbearbeitungsgebühren) sind die größte Hürde, um mehr Open Access zu veröffentlichen."
+        3. "APCs (article processing charges, Artikelbearbeitungsgebühren) sind die größte Hürde, um mehr Open Access zu veröffentlichen."
 
-        8. "Wir brauchen mehr und ausdrückliche Unterstützung für Open Science von den Drittmittelgebern und der Regierung."
+        4. "Wir brauchen mehr und ausdrückliche Unterstützung für Open Science von den Drittmittelgebern und der Regierung."
 
-        9. "Die Teilnahme an Open Peer Review ist für NachwuchswissenschaftlerInnen, die eine Karriere machen wollen, schwierig"
+        5. "Die Teilnahme an Open Peer Review ist für NachwuchswissenschaftlerInnen, die eine Karriere machen wollen, schwierig"
 
-        10. "Wir sollten Teilnehmende an Citizen Science ernster nehmen und sie nicht nur als Datenlieferanten sehen."
+        6. "Wir sollten Teilnehmende an Citizen Science ernster nehmen und sie nicht nur als Datenlieferanten sehen."
 
-        11. "Impact-Faktoren sind ein Symptom, aber nicht die Ursache für das Publikations-Wettrennen."
+        7. "Impact-Faktoren sind ein Symptom, aber nicht die Ursache für das Publikations-Wettrennen."
 
-        12. "Es gibt absolut keinen Grund, warum ein Paper, sobald es fertig ist, nicht als Preprint veröffentlicht werden sollte."
+        8. "Es gibt absolut keinen Grund, warum ein Paper, sobald es fertig ist, nicht als Preprint veröffentlicht werden sollte."
 
-        13. "Die reine Weitergabe von Daten ist in Ordnung, aber um die Wissenschaft wirklich zu beschleunigen, müssen wir an Interoperabilität und Wiederverwendbarkeit dieser Daten arbeiten."
+        9. "Die reine Weitergabe von Daten ist in Ordnung, aber um die Wissenschaft wirklich zu beschleunigen, müssen wir an Interoperabilität und Wiederverwendbarkeit dieser Daten arbeiten."
 
-        14. "Ideen und rojekte über ResearchGate auszutauschen und zu teilen ist ein geeigneter Weg, um unsere Forschung zu verbreiten."
+        10. "Ideen und rojekte über ResearchGate auszutauschen und zu teilen ist ein geeigneter Weg, um unsere Forschung zu verbreiten."
 
-        15. "Die Anforderungen an junge PIs sind wahrscheinlich der Hauptgrund, warum sich Nachwuchswissenschaftler nicht mehr für Open Science engagieren."
+        11. "Die Anforderungen an junge PIs sind wahrscheinlich der Hauptgrund, warum sich Nachwuchswissenschaftler nicht mehr für Open Science engagieren."
 
-        16. "Wir sollten uns bemühen eine Art "Allgemeingut" (‘commons’) zu erschaffen, in der wir alle Forschungsergebnisse und Objekte teilen, um die Zusammenarbeit und Wiederverwendung zu fördern."
+        12. "Wir sollten uns bemühen eine Art "Allgemeingut" (‘commons’) zu erschaffen, in der wir alle Forschungsergebnisse und Objekte teilen, um die Zusammenarbeit und Wiederverwendung zu fördern."
 
 * Benötigte Materialien und Hilfsmittel
 
@@ -584,94 +584,93 @@ Kooperationsnetzwerke</td>
 
     * Diese Übung kann sehr leicht auf andere Thmen übertragen werden, wenn man die Diskussionsthemen und Aussagen dementsprechend ändert.
 
-##### **Example 5: LIBER Open Science café**
+##### **Example 5: LIBER Open Science Café**
 
-* Format, time needed
+* Format, Zeitbedarf
 
-    * small groups, 1.5 hour
+    * Kleine Gruppen, 1,5 Stunden
 
-* Topic
+* Thema
 
-    * [Open Concepts and Principles](/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
+    * [Begriffe und Konzepte in Open Science](/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
 
-* Learning objectives
+* Lernziele
 
-    * Have knowledge of different aspects of open science.
+    * Kentnisse über vershcieden Aspekte von Open Science.
 
-    * Connect different stakeholders to discuss statements and topics.
+    * Vernetzung verschiedener Akteure um Statements und Themen zu diskutieren.
 
-* Materials and tools needed
+* Benötigte Materialien und Hilfsmittel
 
-    * The [LIBER Science Café card deck](https://www.fosteropenscience.eu/content/open-science-cafe-card-deck), or a prepared stack of written statements based on [World Café](http://www.theworldcafe.com/wp-content/uploads/2015/07/Cafe-To-Go-Revised.pdf)
+    * Das [LIBER Science Café Kartendeck](https://www.fosteropenscience.eu/content/open-science-cafe-card-deck), oder im Vorfeld vorbereitete Aussagen basierend auf [World Café](http://www.theworldcafe.com/wp-content/uploads/2015/07/Cafe-To-Go-Revised.pdf)
 
-    * one table per 6-8 persons
+    * einen Tisch für je 6 Personen
 
-* Exercise description
+* Übungsbeschreibung
 
-    * The set-up: 6-8 people gather around a table with 1 moderator and 1 note taker. To initiate conversations, they are provided with a deck of cards with statements and questions related to open science and the involved projects. These statements  serve as conversation starters. Someone can pick a card, the group talks about it for some time, and then they can move on to the next card. In this way, people learn from each other and start to think about the bigger picture. Meanwhile, you can collect valuable input from different stakeholders.
+    * Das Setup: 6-8 Personen versammelen sich um einen Tisch mit 1 Moderator und 1 protokollierenden Person. Um Gespräche zu initiieren erhält die Kleingruppe ein Kartenspiel mit Aussagen und Fragen, die sich auf Open Science beziehen. Die Aussagen dienen als Anregung und Starthilfe für die Gespräche. Nachdem jemand eine Karte gewählt hat, diskutiert die Gruppe über die Aussage und kann dann zur nächsten Karte übergehen. Auf diese Weise lernen die Menschen voneinander und beginnen über das Gesamtbild nachzudenken. In der Zwischenzeit kannst du wertvolle Informationen von den verschiedenen Akteuren einholen.
 
-    * The note taker: collects interesting points of the conversation in two different ways:
+    * Die protokollierende Person: sammelt interessante Punkte des Gesprächs auf zwei unterschiedliche Weisen:
+    
+        1. Mindmap: Du kannst eine Mindmap für die Themen erstellen, die im Gespräch viel Aufmerksamkeit erregen. Wenn es zu schnell geht, habe keine Angst, das Gespräch zu unterbrechen und die anderen zu bitten, Input für die Mindmap zu liefern. Notiere das Hauptthema in der Mitte und arbeite dich von dort zum Rand. Vielleicht fällt es euch schwer, Verbindungen zu finden. Zusätzlich kann man hier auch zufällige Gedanken und Aussagen sammeln.
 
-        17. The mindmap cards: You can use these cards for topics that get a lot of attention in the conversation. If things go too fast, don’t be afraid to stop the conversation and ask people to provide input for this mindmap. Write down the main topic in the centre, and work from there. Is it hard to find connections? You can also collect random thoughts and statements here.
+        2. "Geniale Zitate und Idee"-Karte: Manchmal sagt jemand etwas, das einfach nur WOW ist, etwas auf den Punkt bringt oder irgendwie sehr nützlich ist. Genau für solche Aussagen gibt es die „geniale Zitate und Ideen“- Karte. Es gibt nur eine einzige Karte, also musst du sehr wählerisch und sorgfältig sein. Betone, wenn du denkst, dass etwas so gut ist, verdienterweise auf diese Karte geschrieben zu werden.
 
-        18. Brilliant quotes and ideas: Sometimes someone says something that’s just WOW, just spot on or somehow very useful. For this you have the ‘brilliant quote and ideas’ card. You only have one, so here you have to be very selective. Make a point of it if you think something is so
-good that it deserves to go on this card. 
+    * * Nach 20-30 Minuten, tauschen die Kleingruppen die Tische. Die Moderatoren und Protokollierenden bleiben an ihren ursprünglichen Tischen.
 
-    * After 20-30 minutes, have the group change tables. Moderators and note takers remain seated.
+    * Am Ende berichtete jeder Moderator was die verschiedenen Gruppen an den einzelnen Tischen geasgt haben 
 
-    * At the end, each moderator reports on what has been said by the different groups at their table. 
+##### **Beispiel 6: Was verstehe ich unter Forschungsdaten?**
 
-##### **Beispiel 6: What is research data for me?**
+* Format, Zeitbedarf
 
-* Format, time needed
+    * Einzel-/Paarübung, 15 Minuten
 
-    * Individual/pairs, 15 minutes
+* Thema
 
-* Topic
+    * [Offene Forschungsdaten und Materialien](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
-    * [Open Research Data and Materials](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
+* Lernziele
 
-* Learning objectives
+    * Kentnisse über eigene Forschungsdaten und über Forschungsdaten im Fachbereich
 
-    * Know their own research data and data in their field of research
+* Übungsbeschreibung
 
-* Exercise description
+    * Lass die Teilnehmenden kurz über das letzte Paper, das sie selbst geschrieben oder gelesen haben, nachdenken. Gab es ergänzendes Material („supplementary material“, z.B. Tabellen, Bilder)? Lasse sie Beispiele und Typen von Forschungsdaten aus ihrem eigenen Forschungsfeld aufschreiben. Welche Informationen oder Daten würde man benötigen um die Studie zu wiederholen? Was, bzw. welche Daten wären notwenidg, damit die eigenen Publikationen richtig verstanden werden? Später sollen die Ergebnisse entweder von Paaren oder Kleingruppen (nach kurzer Absprache) im Plenum präsentiert werden. 
 
-    * Let the participants think about the last articles they wrote/read. Was there supplementary material (e.g., tables, images)? Let them write down examples and types of research data in their field of work. What information or data would they need in order to reanalyze the study? What would be needed for their own dissertation/article to be understood properly? Let them present their results either in pairs/groups and then in the plenary
+* Benötigte Materialien und Hilfsmittel
 
-* Materials and tools needed
+    * Papier und Stift
 
-    * A piece of paper and a pen
+* Benötigtes Vorwissen
 
-* Level of prior knowledge needed
+    * Kein vorwissen notwendig
 
-    * No prior knowledge needed
+* Zu beachtende Punkte
 
-* Things to bear in mind
+    * Gib den Teilnehmenden genug Ziet für ein Brainstorming und Ideenaustausch
 
-    * Give the participants enough time to brainstorm
+* Wie man die Übung für andere Zwecke anpassen kann:
 
-* How to adapt for other purposes:
+Man kann die Übung abkürzen, indem die Diskussion in Paaren oder Kleingruppen übersprungen wird und die Teilnehmenden die Ergebisse nur im Plenum diskutieren. 
 
-You can shorten the activity by skipping the pair/group work and just discuss in the plenary
+##### **Beispiel 7: Warum gibt man Daten nicht frei weiter?**
 
-##### **Beispiel 7: Why not share data?**
+* Format, Zeitbedarf
 
-* Format, time needed 
+    * Kleine Gruppen, ~20 Minuten
 
-    * Small groups, ~20 minutes
+* Thema
 
-* Topic
+    * [Offene Forschungsdaten und Materialien](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
-    * [Open Research Data and Materials](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
+* Lernziele
 
-* Learning objectives:
+    * Bringt die Teilnehmenden dazu über die ethischen und praktischen Hindernisse des Datenaustausches nachzudenken und ihre diesbezüglichen Überzeugungen und Standpunkte kritisch zu hinterfragen
 
-    * Get participants thinking about the ethical and practical barriers to data sharing, and to critically examine their beliefs in this area.
+* Übungsbeschreibung
 
-* Exercise description
-
-    * In pairs or small groups, participants have five minutes to make a list as long as possible of all the reasons why researchers might not wish to share their data. Participants then report back on their reasons, discussing whether these are valid reasons or not, and strategies for how to overcome legitimate concerns. The team with the most reasons listed wins (prize optional).
+    * Die Teilzunehmendnen, in Paaren oder Kleingruppen, haben fünf Minuten um eine Liste (so lang wie möglich) zu erstellen mit allen möglichen Gründen warum Forschende ihre Daten nicht freigeben möchten/sollen. Die Teilnehmenden berichten dann diese Gründe und diskutieren im Plenum, ob das triftige Gründe sind oder nicht und erarbeiten Strategien, die berechtigten Bedenken zu überwinden. Das Team mit den meisten Gründen gewinnt (optional einen Preis).
 
 * Materials and tools needed
 
